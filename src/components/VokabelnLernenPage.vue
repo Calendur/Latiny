@@ -106,6 +106,7 @@ export default defineComponent({
     },
     getNextVocabulary() {
       this.translationVisible = false;
+      this.selectedVocabularyIdx = -1;
       if (this.statusLernen.learned.length > 0) {
         // use a random vocabulary with a probability of 5%
         const searchRandomVocabulary = getRandomInt(0, 100) > 95;
@@ -126,12 +127,15 @@ export default defineComponent({
               }
             }
           }
-          const idx = getRandomInt(0, possibleVocabularies.length - 1);
-          this.selectedVocabularyIdx = possibleVocabularies[idx];
-          console.log('Selected Random Vocabulary Idx = ', idx, ", ", this.selectedVocabularyIdx);
-          this.selectedVocabulary = this.vocabularies.list[this.selectedVocabularyIdx];
-          console.log('Selected Random Vocabulary = ', toRaw(this.selectedVocabulary));
-        } else {
+          if (possibleVocabularies.length > 1) {
+            const idx = getRandomInt(0, possibleVocabularies.length - 1);
+            this.selectedVocabularyIdx = possibleVocabularies[idx];
+            console.log('Selected Random Vocabulary Idx = ', idx, ", ", this.selectedVocabularyIdx);
+            this.selectedVocabulary = this.vocabularies.list[this.selectedVocabularyIdx];
+            console.log('Selected Random Vocabulary = ', toRaw(this.selectedVocabulary));
+          }
+        }
+        if (this.selectedVocabularyIdx === -1) {
           const idx = getRandomInt(0, this.statusLernen.learned.length - 1);
           this.selectedVocabularyIdx = this.statusLernen.learned[idx].index;
           console.log('Selected Vocabulary Idx = ', idx, ", ", this.selectedVocabularyIdx);

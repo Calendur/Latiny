@@ -21,6 +21,10 @@ export var statusLernen = reactive({
             console.log('markGood(): No element found with index ', index);
         } else if (element.known) {
             element.known++;
+            if (element.known == 2) {
+                console.log('markGood(): Remove element with index ', index);
+                statusLernen.learned = statusLernen.learned.filter((el) => {return el.index !== index;});
+            }
         } else {
             element.known = 1;
         }
@@ -45,8 +49,12 @@ export var statusLernen = reactive({
 
 async function saveToStorage() {
     console.log("StatusLernen: Save to storage: ", statusLernen);
+    const learnedCopy = [];
+    for (var idx = 0; idx < statusLernen.learned.length; idx++) {
+        learnedCopy.push(toRaw(statusLernen.learned[idx]));
+    }
     await store.set('statusLernen', {
-        learned: toRaw(statusLernen.learned),
+        learned: learnedCopy,
         updateTime: toRaw(statusLernen.updateTime)});
 }
 
