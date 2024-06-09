@@ -1,0 +1,7 @@
+{
+  "name": "Latiny",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}

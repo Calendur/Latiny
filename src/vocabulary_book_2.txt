@@ -1,0 +1,1644 @@
+"sequi, sequor, secutus sum"#"folgen"#68 
+"sermo, sermonis [m]"#"Gespräch, Sprache, Äußerung, Gerede"#21
+"serpens, serpentis [m/f]"#"Schlange"#27
+"serva"#"Sklavin, Dienerin"#1
+"servare"#"bewahren, retten (vor)"#7 
+"fidem servare"#"sein Wort halten"#34 
+"servitus, servitutis [f]"#"Sklaverei"#65
+"servus"#"Sklave, Diener"#1
+"severus, a, um"#"streng"#41
+"sex"#"sechs"#26
+"si"#"falls, wenn"#8
+"sic"#"Adv. so"#37
+"signum"#"Merkmal, Zeichen; Statue"#22 
+"silva"#"Wald"#11
+"similis, e"#"ähnlich"#19
+"simplex, simplicis"#"einfach"#45
+"simulacrum"#"Bild, Schatten (eines Toten)"#10 
+"sin (autem)"#"wenn aber"#48
+"sine"#"ohne"#6
+"sine ulla mora"#"unverzüglich"#43
+"sinere, sino, sivi, situm"#"lassen, erlauben"#41
+"singularis, e"#"einzeln; einzigartig"#51
+"singulus, a, um"#"je ein, jeder einzelne"#50 
+"sinister, sinistra, sinistrum"#"links; trügerisch, falsch"#15
+"sinus, sinus [m]"#"Brust, Bucht, Tasche, Krümmung"#66
+"situs, a, um"#"gelegen (in Ortsangaben)"#44 
+"socius"#"Gefährte, Verbündeter"#24
+"sol, solis [m]"#"Sonne"#10
+"solere, soleo, solitus sum"#"gewohnt sein, gewöhnlich etwas tun"#72
+"sollicitare"#"aufhetzen, beunruhigen, erregen"#5 
+"solum"#"nur"#22
+"non solum ... sed etiam"#"nicht nur ... sondern auch"#17
+"solus, a, um"#"allein, einzig"#34
+"somnus"#"Schlaf"#25
+"soror, sororis [f]"#"Schwester"#27
+"sors, sortis [f]"#"Los, Orakelspruch, Schicksal"#57 
+"spargere, spargo, sparsi, sparsum"#"ausstreuen, bespritzen, verbreiten"#53
+"spatium"#"Raum, Strecke, (Zeit-)Raum"#51 
+"species, speciei [f]"#"Anblick, Aussehen, Schein"#73
+"spectare"#"betrachten, hinsehen"#4
+"sperare"#"erwarten, hoffen"#29
+"spes, spei [f]"#"Hoffnung"#28
+"spem ponere in"#"Hoffnung setzen in jmd."#39
+"spiritus, spiritus [m]"#"Atem, Seele"#27
+"spoliare"#"berauben, plündern"#49 
+"sponte mea (tua, sua)"#"freiwillig, mit eigener Kraft von selbst"#51
+"stare, sto, steti"#"stehen"#3
+"stare, sto, steti"#"stehen"#21
+"statim"#"Adv. auf der Stelle, sofort"#3
+"statua"#"Statue, Standbild"#1
+"statuere, statuo, statui, statutum"#"aufstellen, beschließen, festsetzen"#53
+"exemplum statuere"#"ein Exempel statuieren"#53
+"studere, studeo"#"sich bemühen; sich (wissenschaftlich) beschäftigen"#7
+"studere, studeo"#"sich bemühen; sich (wissenschaftlich) beschäftigen"#19
+"virtuti studere"#"sich um Tapferkeit bemühen"#64
+"studium"#"Beschäftigung, Engagement, Interesse"#19 
+"stultus, a, um"#"dumm"#33
+"sua [n]"#"Pl. sein / ihr Besitz"#23
+"sub"#"unten an / bei, unter (wo?)"#18 
+"subigere, subigo, subegi, subactum"#"zwingen, unterwerfen"#66
+"subire, subeo, subii, subitum"#"auf sich nehmen, herangehen"#39
+"mortem subire"#"den Tod auf sich nehmen"#65
+"periculum subire"#"eine Gefahr auf sich nehmen"#66
+"supplicium subire"#"hingerichtet werden"#47
+"subito"#"Adv. plötzlich"#4
+"succedere, succedo, successi, successum"#"(nach)folgen, nachrücken"#66
+"sui [m]"#"Pl. seine / ihre Leute"#23
+"sumere, sumo, sumpsi, sumptum"#"nehmen"#47 
+"supplicium sumere de"#"die Hinrichtung vollziehen an, hinrichten"#47
+
+"summus, a, um"#"der oberste, der höchste, der letzte"#40
+"in summo discrimine"#"in höchster Gefahr"#61
+"sumptus, sumptus [m]"#"Aufwand, die Kosten"#49
+"super"#"(oben) auf, über (... hinaus) (wohin?)"#19
+"superare"#"besiegen, übertreffen"#17
+"superare m. Abl."#"übertreffen an"#22
+"superbia"#"Stolz, Überheblichkeit"#31
+"superbus, a, um"#"stolz, überheblich"#16
+"superi, superorum [m]"#"Pl. die Götter"#59
+"superior, superioris"#"der höhere"#66
+"supplex, supplicis"#"demütig bittend"#42
+"supplicium"#"Hinrichtung, Strafe; flehentliches Bitten"#25
+"supplicium subire"#"hingerichtet werden"#47
+"supplicium sumere de m. Abl."#"die Hinrichtung vollziehen an, hinrichten"#47
+"supra m. Akk."#"oberhalb, über"#46
+"surgere, surgo, surrexi, surrectum"#"sich erheben, aufstehen"#52
+"suscipere, suscipio, suscepi, susceptum m. Akk."#"auf sich nehmen, sich (einer Sache) annehmen, unternehmen"#15
+"suscipere, suscipio, suscepi, susceptum m. Akk."#"auf sich nehmen, sich (einer Sache) annehmen, unternehmen"#35
+"suspicari, suspicor"#"vermuten, ahnen"#69
+"suspicio, suspicionis [f]"#"Verdacht, Vermutung"#15
+"sustinere, sustineo"#"ertragen, standhalten"#5
+"suus, sua, suum"#"ihr, sein"#23
+"sua [n]"#"Pl. sein / ihr Besitz"#23
+"sui [m]"#"Pl. seine / ihre Leute"#23
+"taberna"#"Laden, Wirtshaus"#2
+"tabula"#"Aufzeichnung, Gemälde,Tafel"#50
+"tacere, taceo"#"schweigen, verschweigen"#3
+"talis, e"#"derartig, ein solcher, so (beschaffen)"#37
+"talis ... qualis"#"so beschaffen ... wie (beschaffen)"#39
+"tam"#"so"#15
+"tam ... quam"#"so ... wie"#16
+"tamen"#"dennoch, jedoch"#6
+"neque tamen"#"und trotzdem nicht"#9
+"tamquam"#"Adv. wie; Subj. wie wenn, als ob"#57
+"tandem"#"Adv. endlich"#3
+"tandem"#"Adv. endlich; im Fragesatz denn eigentlich"#61
+"tangere, tango, tetigi (tactum)"#"berühren"#5
+"tangere, tango, tetigi (tactum)"#"berühren"#21
+"tantum"#"nur"#26
+"tantus, a, um"#"so groß, so viel"#43
+"tantum ingenii"#"so viel (an) Begabung"#69
+
+"tantum ... quantum"#"so viel ... wie (viel)"#43
+"tantus ... quantus"#"so groß ... wie (groß)"#43
+"te ignaro"#"ohne dein Wissen"#58
+"tectum"#"Dach; Haus"#12
+"tegere, tego, texi, tectum"#"bedecken, schützen, verbergen"#18
+"tegere, tego, texi, tectum"#"bedecken, schützen, verbergen"#51
+"telum"#"(Angriffs-)Waffe,Geschoss"#28
+"temperare m. Akk."#"lenken, ordnen"#38
+"temperare m. Dat."#"maßvoll gebrauchen, zurückhalten, schonen"#18
+"irae temperare"#"seinen Zorn zurückhalten"#56
+"tempestas, tempestatis [f]"#"Sturm, (schlechtes) Wetter"#43
+"templum"#"Tempel, heiliger Ort"#1
+"temptare"#"angreifen; prüfen, versuchen"#23
+"tempus, temporis [n]"#"(günstige) Zeit; Umstände"#20
+"brevi tempore"#"nach kurzer Zeit, bald (darauf)"#20
+"multum temporis"#"viel Zeit"#69
+"tendere, tendo, tetendi, tentum"#"spannen,(aus)strecken, sich anstrengen"#32
+"tenebrae, tenebrarum [f]"#"Pl. Dunkelheit, Finsternis"#13
+"tenere, teneo"#"halten, festhalten, besitzen"#7
+"memoria tenere"#"im Gedächtnis behalten"#22
+"terra"#"Erde, Land"#18
+"terra marique"#"zu Wasser und zu Lande"#18
+"terrere, terreo"#"erschrecken"#15
+"tertius, a, um"#"der (die, das) dritte"#28
+"theatrum"#"Theater"#21
+"thermae, thermarum [f]"#"Pl. Thermen, Badeanlage"#21
+"tibi Dat."#"dir"#11
+"timere, timeo"#"Angst haben, fürchten"#5
+"timere, ne"#"m. Konj. Angst haben / fürchten dass"#46
+"timor, timoris [m]"#"Angst, Furcht"#6
+"timore affici"#"in Furcht geraten, Angst bekommen"#39
+"toga"#"Toga"#48
+"tollere, tollo, sustuli, sublatum"#"aufheben, in die Höhe heben, wegnehmen"#32
+"torquere, torqueö, torsi"#"drehen, schleudern, quälen"#18
+"tot"#"indekl. so viele"#20
+"totus, a, um (Gen. totius, Dat. toti)"#"ganz"#35
+"tota Italia"#"in ganz Italien"#35
+"toto imperio"#"im ganzen Reich"#35
+
+
+
+"religio, religionis [f]"#"Glaube, Aberglaube, (Gottes-)Verehrung, Frömmigkeit, Gewissenhaftigkeit"#53
+"relinquere, relinquo, reliqui, relictum"#"zurücklassen, verlassen"#12
+"relinquere, relinquo, reliqui, relictum"#"zurücklassen, verlassen"#28
+"relinquere, relinquo, reliqui, relictum"#"zurücklassen, verlassen"#37
+"reliquus, a, um"#"künftig, übrig"#61
+"remittere, remitto, remisi, remissum"#"zurückschicken; nachlassen, vermindern"#43
+"repellere, repello, reppuli, repulsum"#"zurückstoßen, abweisen, vertreiben"#57
+"repenete"#"Adv. plötzlich, unerwartet"#56
+"reperire, reperio, repperi, repertum"#"(wieder)finden"#21
+"reperire, reperio, repperi, repertum"#"(wieder)finden"#57
+"repetere, repeto, repetivi, repetitum"#"wiederholen, (zurück)verlangen"#41 
+"reprehendere, reprehendo, reprehendi"#"kritisieren, schimpfen"#6
+"reri, reor, ratus sum"#"meinen"#67
+"res, rei [f]"#"Angelegenheit, Ding, Sache"#28 
+"res adversae"#"Unglück"#28
+"res familiaris"#"Vermögen"#28
+"res gestae"#"Taten"#40
+"res publica"#"Staat"#35
+"resistere, resisto, restiti"#"stehenbleiben; Widerstand leisten"#14
+"resistere, resisto, restiti"#"stehenbleiben; Widerstand leisten"#34
+"respicere, respicio, respexi, respectum"#"zurückblicken, berücksichtigen"#31
+"respondere, respondeo, respondi"#"antworten, entsprechen"#17
+"respondere, respondeo, respondi"#"antworten, entsprechen"#27
+"restituere, restituo, restitui, restitutum"#"wiederherstellen"#38
+"retinere, retineo"#"zurückhalten, behalten, festhalten"#5
+"reverti, revertor, reverti, reversum"#"zurückkehren"#69
+"revocare"#"zurückrufen"#42
+"rex, regis [m]"#"König"#24
+"tyranno ruge"#"unter der Regierung eines Tyrannen"#58
+"rege invito"#"gegen den Willen des Königs"#58 
+"Rhodum"#"nach Rhodos"#47
+"ridere, rideo, risi"#"lachen, auslachen"#3
+"ridere, rideo, risi"#"lachen, auslachen"#21 
+"rogare"#"bitten, erbitten; fragen"#46
+"Roma"#"Rom"#1
+"Roma"#"von /aus Rom (weg) (woher?)"#35 
+"Romae"#"in Rom (wo?)"#35
+"Romam"#"nach Rom (wohin?)"#23
+"Romanus, a, um"#"Römer; römisch"#4
+"Romanus, a, um"#"Römer; römisch"#17 
+"ruere, ruo, rui, ruiturum"#"eilen, stürmen, (ein)stürzen"#60
+
+"rumpere, rumpo, rupi, ruptum"#"zerbrechen"#73 
+"rusticus, a, um"#"ländlich"#14
+"villa rustica"#"Landgut"#14 
+"sacer, sacra, sacrum (m, Gen.)"#"geweiht, heilig"#38
+"sacerdos, sacerdotis [m/f]"#"Priester(in)"#56 
+"sacrum"#"Heiligtum, Opfer"#54
+"sacra facere"#"Opfer darbringen, opfern"#41 
+"saeculum"#"Jahrhundert, Menschenalter, Zeit(alter)"#35
+"saepe"#"Adv. oft"#10
+"saevus, a, um"#"schrecklich; wild, wütend"#18 
+"salus, salutis [f]"#"Gesundheit, Glück, Rettung; Gruß"#18
+"de salute desperare"#"die Hoffnung auf Rettung aufgeben"#29
+"salutem fuga petere"#"Rettung in der Flucht suchen"#60
+"salutare"#"(be)grüßen"#2
+"salve/salvete"#"Sei gegrüßt! / Seid gegrüßt! Guten Tag!"#2
+"salvus, a, um"#"gesund, unversehrt"#30 
+"sanctus, a, um"#"ehrwürdig, heilig"#62 
+"sanguis, sanguinis [m]"#"Blut; Blutvergießen"#61
+"sapiens, sapientis"#"weise, verständig"#53
+"sapientia"#"Weisheit, Einsicht"#54
+"satis"#"Adv. genug"#64
+"saxum"#"Fels, Stein"#14
+"sceleratus, a, um"#"verbrecherisch; Subst. Verbrecher"#8
+"sceleratus, a, um"#"verbrecherisch; Subst. Verbrecher"#25
+"scelus, sceleris [n]"#"Verbrechen"#37
+"scelus committere"#"ein Verbrechen begehen"#37
+"schola"#"Schule"#71
+"scilicet"#"Adv. freilich, natürlich, selbstverständlich"#13
+"scire, scio"#"wissen, kennen, verstehen"#9 
+"haud scio, an"#"ich weiß nicht, ob nicht; vielleicht"#71
+"scribere, scribo, scripsi, scriptum"#"schreiben, beschreiben"#44
+"scriptor, scriptoris [m]"#"Schriftsteller"#44
+"se Akk."#"sich"#23
+"se dare m. Dat."#"sich widmen"#36
+"se gerere"#"sich verhalten"#59
+"se praebere m. Akk."#"sich zeigen (als)"#43 
+"se praestare m. Akk."#"sich erweisen als"#47
+"se recipere"#"sich zurückziehen"#60
+"secum"#"mit sich, bei sich"#23
+
+
+"tam ... quam"#"so ... wie"#16
+"quamobrem"#"Adv. warum; als relativer Satzanschluss: deshalb"#63 
+"quamquam"#"Subj. m. Ind. obwohl"#24
+"quamvis"#"Subj. m. Konj. wenn auch; Adv. beliebig, wie du willst"#51
+"quando"#"wann"#33
+"quantus, a, um"#"wie groß, wie viel"#43
+"tantum ... quantum"#"so viel ... wie (viel)"#43
+"tantus ... quantus"#"so groß ... wie (groß)"#43
+"quare"#"weshalb, wodurch; relativer Satzanschluss: deshalb"#52
+"quartus, a, um"#"der (die, das) vierte"#28
+"quasi"#"Adv. gleichsam"#69
+"-que (angehängt)"#"und"#12
+"quemadmodum"#"auf welche Weise (auch immer), wie"#73
+"queri, queror, questus sum (m. Akk.)"#"klagen; sich beklagen (über)"#68
+"qui, quae, quod"#"der, die, das; welcher, welche, welches"#16
+"qui, quae, quod"#"der, die, das; welcher, welche, welches"#52
+"non is est, qui"#"m. Konj. er ist nicht der Mann, der"#66
+"qua de causa"#"aus welchem Grund; relativer Satzanschluss: deshalb"#54
+"quibus de causis"#"aus welchen Gründen; relativer Satzanschluss: deshalb"#54
+"quibus verbis dictis"#"nach diesen Worten"#57
+"quis"#"Subj. weil"#8
+"quicumque, quaecumque, quodcumque"#"jeder, der; wer auch immer; neutr. alles, was"#70
+"quid?"#"was?"#2
+"quid consilii"#"welcher Plan, welcher Entschluss"#69
+"quidam, quaedam, quoddam"#"Adj. ein gewisser, irgendeiner; Pl. einige"#66
+"incredibili quadam virtute"#"mit geradezu unglaublicher Tapferkeit"#66
+"quidem"#"Adv. freilich, gewiss, wenigstens, zwar"#10
+"quiescere, quiesco, quievi"#"(aus)ruhen, schlafen"#5
+"quiescere, quiesco, quievi"#"(aus)ruhen, schlafen"#19
+"quin"#"im Hauptsatz vielmehr, warum nicht?; Subj. m. Konj. dass nicht; (in festen Wendungen) dass"#71
+"nemo dubitat, quin"#"niemand zweifelt daran, dass"#71
+"non multum abest, quin"#"es fehlt nicht viel, dass"#71
+
+"quintus, a, um"#"der (die, das) fünfte"#28
+"quinto quoque anno"#"alle vier Jahre (in jedem 5. Jahr)"#54
+"quis?"#"wer?"#3
+"quis nostrum / quis vestrum"#"wer von uns / wer von euch"#54
+"quisnam"#"wer denn"#59
+"quisquam, quaequam, quidquam (quicquam)"#"irgendjemand"#64
+"quisque, quaeque, quodque"#"Adj. jeder"#49
+"optimus quisque"#"gerade die Besten (jeder Beste)"#49
+"quisque, quidque"#"Subst. jeder"#49
+"quisquis, quidquid (quicquid)"#"Subst. jeder, der; wer auch immer; neutr. alles, was"#70
+"quo?"#"wohin"#29
+"quo ... eo"#"m. Komp. je ... desto"#70
+"quod"#"Subj. m. Ind. dass, weil"#39
+"quod"#"Subj. m. Ind. dass, weil"#55
+"quomodo"#"wie, auf welche Weise"#54
+"quondam"#"Adv. einmal, einst; manchmal"#17
+"quoniam"#"Subj. m. Ind. da ja, da nun"#60 
+"quoque"#"(nachgestellt) auch"#10
+"quot"#"wie viele"#31
+"quotiens"#"wie oft; so oft"#51
+
+"rapere, rapio, rapui, raptum"#"rauben, wegführen, wegreißen"#25
+"rapere, rapio, rapui, raptum"#"rauben, wegführen, wegreißen"#34 
+"raro"#"Adv. selten"#12
+"ratio, rationis [f]"#"Grund, Vernunft, Überlegung; Art und Weise; Berechnung"#48
+"recens, recentis"#"frisch, neu"#26
+"se recipere"#"sich zurückziehen"#60 
+"recitare"#"vorlesen, vortragen"#47
+"recreare"#"wiederherstellen, erfrischen"#44
+"recte"#"Adv. geradeaus, richtig, zu Recht"#8
+"rectus, a, um"#"gerade, recht, richtig"#72
+"reddere, reddo, reddidi (redditum)"#"zurückgeben, etwas zukommen lassen; (m. dopp. Akk.) machen zu"#28
+"redire, redeo, redii, reditum"#"zurückgehen, zurückkehren"#39
+"referre, refero, rettuli, relatum"#"(zurück)bringen, berichten"#62
+"regere, rego, rexi (rectum)"#"beherrschen, leiten, lenken"#19
+"regina"#"Königin"#34
+"regio, regionis [f]"#"Gebiet, Gegend, Richtung"#20
+"regnum"#"(Königs-)Herrschaft, Reich"#26
+
+"praesertim (cum)"#"besonders (da, weil)"#60 
+"praesidium"#"Schutztruppe, (Wach-)Posten"#61
+"praestare, praesto, praestiti m. Akk."#"gewähren, leisten, zeigen"#47 
+"officium praestare"#"die Pflicht erfüllen"#48
+"praestare m. Dat"#"jmd. übertreffen"#64 
+"se praestare m. Akk."#"sich erweisen als"#47
+"praeter m. Akk."#"außer"#63
+"praeterea"#"Adv. außerdem"#36
+"praeterire, praetereo, praeterii, praeteritum"#"vorbeigehen, übergehen"#48
+"praetor, praetoris"#"Prätor (für die Rechtsprechung zuständiger Beamter)"#37
+"precari, precor, precatus sum"#"bitten"#71 
+"premere, premo, pressi, pressum"#"(unter)drücken, bedrängen"#69
+"pretium"#"Preis, Wert"#6
+"de pretio agere"#"über den Preis verhandeln"#6
+"pretium quaerere (ex/de m. Abl.)"#"(jmd.) nach dem Preis fragen"#8
+"prex, precis [f]"#"Bitte"#34
+"primo"#"Adv. zuerst"#13
+"primum"#"Adv. erstens, zuerst, zum ersten Mal"#12 
+"primus, a, um"#"der (die, das) Erste"#28
+"princeps, principis [m]"#"der Erste, der führende Mann; Kaiser"#49
+"prius"#"Adv. eher, früher"#45
+"priusquam Subj. m. Ind. "#"bevor"#48 
+"pro m. Abl."#"vor; anstelle von, für; entsprechend"#25
+"probare"#"prüfen, beweisen, für gut befinden"#6 
+"probus, a, um"#"anständig, gut; tüchtig"#14 
+"procedere, procedo"#"(vorwärts)gehen, vorrücken"#13
+"procul"#"Adv. von fern, weit weg"#5
+"prodere, prodo, prodidi, proditum"#"überliefern, verraten"#65
+"prodesse, prosum, profui"#"nützen, nützlich sein"#72
+"proelium"#"Kampf, Schlacht"#39
+"proelium inire"#"den Kampf beginnen"#39 
+"profecto"#"Adv. sicherlich, tatsächlich"#6 
+"proficisci, proficiscor, profectus sum"#"(ab)reisen, aufbrechen"#68
+"progredi, progredior, progressus sum"#"vorrücken, weitergehen"#68
+"prohibere, prohibeo (a/ab)"#"abhalten, fernhalten (von); hindern (an)"#6
+"proinde"#"Adv. daher, also, ebenso"#16 
+
+"promittere, promitto, promisi (promissum)"#"versprechen"#10
+"promittere, promitto, promisi (promissum)"#"versprechen"#20
+"prope"#"Adv. nahe, in der Nähe; beinahe"#3
+"properare"#"eilen, sich beeilen"#2
+"propinquus, a, um"#"nahe; Subst. Verwandter"#42
+"propius"#"Adv. näher"#67
+"proponere, propono, proposui, propositum"#"darlegen, in Aussicht stellen"#69
+"propter"#"m. Akk. wegen"#45
+"propterea quod"#"deswegen weil"#60
+"prorsus"#"Adv. überhaupt, völlig"#72
+"prospicere, prospicio, prospexi, prospectum"#"schauen auf, sehen"#66
+"protinus"#"Adv. sofort"#51
+"providere, provideo, providi, provisum"#"m. Akk. vorhersehen, m. Dat. sorgen für"#43
+"providere, ut"#"dafür sorgen, dass"#57 
+"provincia"#"Provinz"#35
+"proximus, a, um"#"der nächste"#40
+"publicus, a, um"#"öffentlich, staatlich"#35
+"res publica"#"Staat"#35
+"pudet, puduit"#"es beschämt"#61
+"me pudet"#"ich schäme mich"#61
+"pudor, pudoris [m]"#"Scham(gefühl), Anstand"#56 
+"puella"#"Mädchen, Freundin"#4
+"puer, pueri [m]"#"Junge"#13
+"puer novem annorum"#"ein neunjähriger Junge"#41
+"pugna"#"Kampf"#30
+"pugnare"#"kämpfen"#17
+"pulcher, pulchra, pulchrum"#"schön"#14
+"punire, punio, punivi"#"(be)strafen"#58
+"purus, a, um"#"rein, klar"#50
+"putare"#"glauben, meinen"#20
+"putare m. dopp. Akk."#"halten für"#35 
+
+"quaerere, quaero, quaesivi, quaesitum (ex/de m. Abl.)"#"suchen; erwerben wollen; (jmd.) fragen"#4
+"quaerere, quaero, quaesivi, quaesitum (ex/de m. Abl.)"#"suchen; erwerben wollen; (jmd.) fragen"#20
+"quaerere, quaero, quaesivi, quaesitum (ex/de m. Abl.)"#"suchen; erwerben wollen; (jmd.) fragen"#54
+"pretium quaerere (ex/de m. Abl.)"#"(jmd.) nach dem Preis fragen"#8
+"quaeso"#"bitte!"#9
+"qualis"#"wie (beschaffen)"#39
+"talis ... qualis"#"so beschaffen ... wie (beschaffen)"#39
+"quam"#"als, wie"#16
+"plus ... quam"#"mehr ... als"#27
+"quam"#"m. Superlativ möglichst"#65 
+"quam bonus ..."#"wie gut ..."#16
+
+"periculum"#"Gefahr"#9
+"periculum subire"#"eine Gefahr auf sich nehmen"#66
+"perire, pereo, perii"#"umkommen, zugrunde gehen"#39
+"peritus, a, um (m. Gen.)"#"erfahren, kundig (in)"#63 
+"permittere, permitto, permisi (permissum)"#"erlauben, überlassen"#11
+"permittere, permitto, permisi (permissum)"#"erlauben, überlassen"#23
+"permovere, permoveo, permovi, permotum"#"beunruhigen, veranlassen"#65
+"pernicies, perniciei [f]"#"Verderben, Vernichtung"#29
+"perpetuus, a, um"#"dauerhaft, ewig"#50
+"persequi, persequor, persecutus sum"#"verfolgen"#68
+"perspicere, perspicio, perspexi, perspectum"#"durchschauen, erkennen, genau betrachten, sehen"#40 
+"persuadere, persuadeo, persuasi, persuasum m. Dat"#"überreden, überzeugen"#38 
+"perterrere, perterreo, perterrui, perterritum"#"sehr erschrecken, einschüchtern"#30
+"perterrere, perterreo, perterrui, perterritum"#"sehr erschrecken, einschüchtern"#32 
+"pertinere, pertineo (ad m. Akk.)"#"betreffen, gehören (zu), sich erstrecken (bis)"#22
+"pertinere, pertineo (ad m. Akk.)"#"betreffen, gehören (zu), sich erstrecken (bis)"#44 
+"perturbare"#"in Verwirrung bringen"#33 
+"pervenire, pervenio, perveni (perventum) (ad/in m. Akk.)"#"kommen zu / nach"#21 
+"pes, pedis [m]"#"Fuß"#11
+"pessimus, a, um"#"der schlechteste, sehr schlecht; der schlimmste, sehr schlimm"#65
+"petere, peto, petivi (petitum)"#"(auf)suchen, (er)streben, bitten, verlangen"#5
+"petere, peto, petivi (petitum)"#"(auf)suchen, (er)streben, bitten, verlangen"#19 
+"curiam petere"#"die Kurie aufsuchen, zur Kurie eilen"#5
+"salutem fuga petere"#"Rettung in der Flucht suchen"#60
+"philosóphia"#"Philosophie"#54
+"philosophus"#"Philosoph"#44
+"pietas, pietatis [f]"#"Frömmigkeit; Ehrfurcht, Pflichtgefühl"#24
+"pius, a, um"#"fromm, gerecht, pflichtbewusst"#53 
+"placere, placeo"#"gefallen"#3
+"mihi placet"#"mir gefällt es, ich beschließe"#25 
+"plebs, plebis [f]"#"(nicht adeliges, einfaches) Volk"#9
+"plenus, a, um (m. Gen.)"#"voll (von /mit)"#57
+"plerique, pleraeque, pleraque"#"die meisten, sehr viele"#53
+"plerumque"#"Adv. meistens"#69
+"plures, plura (Gen. plurium)"#"mehr(ere)"#61 
+"plurimi, ae, a"#"sehr viele"#42
+"plurimum"#"Adv sehr viel, am meisten"#65
+
+"plus"#"Adv. mehr"#65
+"plus, pluris"#"mehr"#27
+"pluris aestimare"#"hoher einschätzen, für wichtiger halten"#45
+"pluris existimare"#"höher einschätzen"#58 
+"plus ... quam"#"mehr ... als"#27
+"poena"#"Strafe"#23
+"poena afficere"#"betrafen"#23
+"poeta [m]"#"Dichter"#47
+"polliceri, polliceor, pollicitus sum"#"versprechen"#68
+"ponere, pono, posui, positum"#"(auf)stellen, (hin)legen, setzen"#36
+"spem ponere in m. Abl."#"Hoffnung setzen in jmd."#39
+"pons, pontis [m]"#"Brücke"#36
+"populus"#"Volk, Volksmenge (die Leute)"#3 
+"porta"#"Tor"#2
+"portare"#"bringen, tragen"#5
+"portus, portus [m]"#"Hafen"#42
+"poscere, posco, poposci"#"fordern, verlangen"#7
+"poscere, posco, poposci"#"fordern, verlangen"#38
+"posse, possum, potui"#"können"#13
+"posse, possum, potui"#"können"#18
+"possidere, possideo"#"besitzen"#16
+"post m. Akk."#"hinter, nach"#20
+"postea"#"Adv. nachher, später"#19
+"posterus, a, um"#"folgend"#17
+"posteri, posterorum [m]"#"Pl. Nachkommen"#17
+"postero die"#"am folgenden Tag"#60 
+"postquam"#"Subj. m. Perf. nachdem, als"#24
+"postremo"#"Adv. kurz (gesagt); schließlich"#70 
+"postridie"#"Adv. am folgenden Tag"#66
+"postulare"#"fordern"#50
+"potens, potentis"#"mächtig, stark"#26
+"potestäs, potestatis [f]"#"(Amts-)Gewalt, Macht"#49 
+"potius"#"Adv eher, lieber"#71
+"praebere, praebeo"#"geben, hinhalten"#13
+"se praebere"#"sich zeigen"#43
+"praeceptor, praeceptoris [m]"#"Lehrer"#73
+"praecipere, praecipio, praecepi, praeceptum"#"(be)lehren, vorschreiben"#70
+"praeclarus, a, um"#"großartig"#23
+"praeda"#"Beute"#25
+"praedicare"#"rühmen, preisen; behaupten"#50 
+"praeesse, praesum, praefui m. Dat"#"an der Spitze stehen, leiten"#38
+"praeferre, praefero, praetuli, praelatum"#"vorziehen"#70
+"praemium"#"Belohnung, Lohn"#35
+
+"opera"#"Arbeit, Mühe"#63
+"operam dare"#"sich Mühe geben"#63
+"opes, opum [f]"#"Pl. Macht, Mittel, Reichtum"#47
+"opinari, opinor, opinatus sum"#"glauben, meinen"#69
+"opinio, opinionis [f]"#"Meinung, (guter) Ruf"#65
+"oportet"#"es gehört sich, es ist nötig"#11
+"oppidum"#"Stadt"#18 
+"opportunus, a, um"#"geeignet, günstig"#19
+"opprimere, opprimo, oppressi, oppressum"#"bedrohen, niederwerfen, unterdrücken"#17
+"opprimere, opprimo, oppressi, oppressum"#"bedrohen, niederwerfen, unterdrücken"#40 
+"oppugnare"#"angreifen"#42
+"optare"#"wünschen"#45
+"optimus, a, um"#"der beste, sehr gut"#43
+"optimus quisque"#"gerade die Besten (jeder Beste)"#49
+"opus, operis [n]"#"Arbeit, Werk"#36
+"opus est m. Abl."#"es ist nötig, man braucht"#61 
+"oraculum"#"Orakel(spruch)"#54
+"oraculum adire"#"die Orakelstätte aufsuchen, sich an das Orakel wenden"#54
+"orare"#"bitten"#9
+"oratio, orationis [f]"#"Rede"#39
+"orationem habere"#"eine Rede halten"#45
+"orator, oratoris [m]"#"Redner"#54
+"orbis, orbis [m]"#"Kreis(lauf); Erdkreis, Welt"#20 
+"orbis terrarum"#"Erde, Welt"#20
+"oriri, orior, ortus sum"#"entstehen, sich erheben"#69
+"ornamentum"#"Schmuck(stück)"#4
+"ornare"#"ausstatten, schmücken"#46
+"os, oris [n]"#"Gesicht, Mund"#70
+"ostendere, ostendo, ostendi"#"zeigen, erklären"#10
+"ostendere, ostendo, ostendi"#"zeigen, erklären"#27
+"otium"#"freie Zeit, Ruhe (von beruflicher Tätigkeit); Frieden"#36
+"paene"#"Adv. fast"#30
+"Paesti"#"in Pästum (wo?)"#45
+"par, paris"#"ebenbürtig, gleich"#49
+"parare"#"(vor)bereiten, vorhaben; erwerben"#8 
+"neces parare"#"Mordanschläge vorbereiten"#9 
+"paratus, a, um"#"bereit, vorbereitet"#58
+"parcere, parco, peperci m. Dat"#"schonen, sparen"#47
+"parcus, a, um"#"sparsam"#17
+"parens, parentis [m/f]"#"Vater, Mutter; Pl. Eltern"#16
+"parere, pareo"#"gehorchen, sich richten nach"#7 
+"parere, pario, peperi, partum"#"zur Welt bringen; erwerben, schaffen"#25
+"victoriam parere"#"den Sieg erringen"#56 
+"pariter"#"Adv. ebenso gleichzeitig"#72 
+"pariter ac / atque"#"ebenso wie"#72
+"pars partis [f]"#"Teil, Seite, Richtung"#28
+"utraque parte"#"auf beiden Seiten"#50 
+"parum"#"Adv. (zu) wenig"#70
+"parvus, a, um"#"klein, gering"#14
+"parvi aestimare"#"gering (ein)schätzen"#38 
+"parvi esse"#"wenig wert sein / gelten"#38 
+"parvi facere"#"gering (ein)schätzen"#38 
+"parvi putare"#"gering (ein)schätzen"#38 
+"parvo vendere"#"billig verkaufen"#37 
+"pater, patris [m]"#"Vater"#16
+"patre vivo"#"zu Lebzeiten des Vaters"#58 
+"patres (conscripti) [m]"#"Pl. Senatoren"#38 
+"patere, pateo"#"offenstehen, sich erstrecken"#2 
+"pati, patior, passus sum"#"(er)leiden, ertragen, zulassen"#68
+"patria"#"Heimat"#17
+"pauci, ae, a"#"wenige"#14
+"paulatim"#"Adv, allmählich"#72
+"paulo post"#"(ein) wenig später"#12 
+"paulum"#"Adv. ein wenig"#3
+"pax, pacis [f]"#"Frieden"#24
+"pax Augusta"#"die Augusteische Friedenszeit"#50 
+"peccare"#"einen Fehler machen, sündigen"#70
+"pectus, pectoris [n]"#"Brust, Herz"#24 
+"pecunia"#"Geld,Vermögen"#4
+"pecus, pecoris [n]"#"Vieh; Tier"#15
+"pellere, pello, pepuli, pulsum"#"stoßen, schlagen, (ver)treiben"#11
+"pellere, pello, pepuli, pulsum"#"stoßen, schlagen, (ver)treiben"#37
+"pendere, pendeo, pependi"#"(herab)hängen, schweben"#31
+"penna"#"Feder"#31
+"per"#"m. Akk. durch, hindurch"#21
+"perdere, perdo, perdidi, perditum"#"verlieren, verschwenden; zugrunde richten"#42
+"perdere, perdo, perdidi, perditum"#"verlieren, verschwenden; zugrunde richten"#59
+"perferre, perfero, pertuli, perlatum"#"(über)bringen, ertragen"#62
+"perficere, perficio, perfeci, perfectum"#"erreichen, fertigstellen, vollenden"#27
+"perficere, perficio, perfeci, perfectum"#"erreichen, fertigstellen, vollenden"#44 
+"pergere, pergo, perrexi"#"aufbrechen; weitermachen"#14
+"pergere, pergo, perrexi"#"aufbrechen; weitermachen"#33
+"iter pergere"#"die Reise / den Weg fortsetzen"#43
+
+"ni"#"Subj. wenn nicht"#71
+"mirum est, ni / nisi"#"es sollte verwundern, wenn nicht; höchstwahrscheinlich"#71
+"nihil / nil"#"nichts"#18
+"nihil / nil"#"nichts"#51
+"nimis"#"Adv. (all)zu, (all)zu sehr"#33 
+"nimium"#"Adv. (all)zu , (all)zu sehr"#51 
+"nimius, a, um"#"übermäßig, zu groß"#55 
+"nisi"#"Subj. wenn nicht"#22
+"nobilis, e"#"berühmt, adelig, vornehm"#19 
+"nocturnus, a, um"#"nächtlich"#53
+"nolle, nolo, nolui"#"nicht wollen"#41 
+"nomen, nominis [n]"#"Name"#21 
+"nominare"#"nennen, benennen"#26 
+"non"#"nicht"#2
+"non debere"#"nicht dürfen"#13
+"non habeo, quod"#"m. Konj. ich habe keinen Grund dafür, dass"#67
+"non iam"#"nicht mehr"#5
+"non ignorare"#"gut kennen, wohl wissen"#16
+"non is est, qui"#"m. Konj. er ist nicht der Mann, der"#66
+"non modo ... sed etiam"#"nicht nur ... sondern auch"#4
+"non multum abest, quin"#"es fehlt nicht viel, dass"#71
+"non solum ... sed etiam"#"nicht nur ... sondern auch"#17
+"nondum"#"noch nicht"#3
+"nonne"#"etwa nicht? denn nicht?"#9 
+"nonnulli, ae, a"#"einige, manche"#14 
+"nos Nom. / Akk."#"wir / uns"#11
+"noscere, nosco, novi, notum"#"erkennen, kennenlernen"#45
+"noster, nostra, nostrum"#"unser"#16 
+"notus, a, um"#"bekannt"#42
+"no(vi)sse, novi"#"Perf. kennen, wissen"#45 
+"novus, a, um"#"neu, ungewöhnlich"#18 
+"nox, noctis [f]"#"Nacht"#13
+"nubere, nubo, nupsi, nupta m. Dat"#"(jmd.) heiraten"#34
+"nubes, nubis [f]"#"Wolke"#18
+"nudus, a, um"#"nackt"#55
+"nullus, a, um (Gen. nullius, Dat. nulli)"#"kein"#14
+"nullo modo"#"keineswegs, keinesfalls"#36
+"num"#"im dir. Fragesatz etwa, im indir. Fragesatz ob"#37
+"num"#"im dir. Fragesatz etwa, im indir. Fragesatz ob"#61
+"numerus"#"Zahl, Menge"#23
+
+"numquam"#"Adv. niemals"#15 
+"nunc"#"Adv. jetzt, nun"#3
+"nunc vero"#"jetzt aber, nun aber"#47
+"nuntiare"#"melden"#30
+"nuntius"#"Bote, Nachricht"#18
+"nuper"#"Adv. neulich, vor kurzem"#21
+"o me miserum!"#"Oh ich Unglücksrabe! Oh ich Armer!"#29
+"obicere, obicio, obieci, obiectum"#"darbieten, vorwerfen"#57
+"oblivisci, obliviscor, oblitus sum"#"(m. Gen) vergessen"#68
+"obscurus, a, um"#"dunkel, unbekannt"#63
+"obsecrare"#"anflehen, bitten"#71
+"obses, obsidis [m/f]"#"Geisel"#47
+"obtinere, obtineo"#"(in Besitz) haben, (besetzt) halten"#57
+"occasio, occasionis [f] (m. Gen.)"#"Gelegenheit (zu)"#64
+"occasionem omittere"#"eine Gelegenheit auslassen"#64
+"occidere, occido, occidi"#"umkommen, untergehen"#21
+"occidere, occidö, occidi, occisum"#"niederschlagen, töten"#30
+"occidere, occidö, occidi, occisum"#"niederschlagen, töten"#39
+"occulte"#"Adv. heimlich"#24
+"occultus, a, um"#"geheim, verborgen"#58
+"occupare"#"besetzen, einnehmen"#40
+"occurrere, occurro, occurri"#"begegnen, entgegentreten"#10
+"occurrere, occurro, occurri"#"begegnen, entgegentreten"#21
+"oculus"#"Auge"#32 
+"odisse, odi"#"Perf. hassen"#65
+"odium"#"Hass"#41
+"odio esse"#"verhasst sein"#47
+"odium tui"#"der Hass auf dich"#48
+"offerre, offero, obtuli, oblatum"#"anbieten, entgegenbringen"#73
+"officium"#"Dienst, Pflicht(gefühl)"#48
+"officium praestare"#"die Pflicht erfüllen"#48
+"omen, ominis [n]"#"Vorzeichen"#26
+"omittere, omitto, omisi, omissum"#"aufgeben, beiseitelassen"#63
+"occasionem omittere"#"eine Gelegenheit auslassen"#64
+"omnino"#"Adv. insgesamt, überhaupt, völlig"#52 
+"omnis, e"#"ganz, jeder; Pl. alle"#19
+"omnia [n]"#"Pl. alles"#25
+"onus, oneris [n]"#"Last, Belastung"#15
+
+"minimus, a, um"#"der kleinste, sehr klein; der geringste, sehr gering"#65 
+"minister, ministri [m]"#"Diener, Gehilfe"#13 
+"minor, minoris"#"kleiner, geringer"#65
+"mirari, miror, miratus sum"#"bewundern, sich wundern"#67
+"mirus, a, um"#"erstaunlich, sonderbar; wunderbar"#20
+"mirum est, ni / nisi"#"es sollte verwundern, wenn nicht; höchstwahrscheinlich"#71
+"miser, misera, miserum"#"arm, unglücklich, erbärmlich"#14
+"o me miserum!"#"Oh ich Unglücksrabe! Oh ich Armer!"29
+"misericordia"#"Mitleid"#49
+"mittere, mitto, misi, missum"#"(los)lassen, schicken; werfen"#3
+"mittere, mitto, misi, missum"#"(los)lassen, schicken; werfen"#20
+"mittere, mitto, misi, missum"#"(los)lassen, schicken; werfen"#35
+"modo"#"Adv. eben (noch); nur"#31
+"modo"#"Adv. eben (noch); nur"#70
+"modo ... modo"#manchmal ... manchmal, bald ... bald"#6
+"modus"#"Art, Weise; Maß"#22
+"modum transire"#"das Maß überschreiten"#39 
+"nullo modo"#"keineswegs, keinesfalls"#36
+"moenia, moenium [n]"#"Pl. (Stadt-)Mauern"#26
+"moliri, molior, molitus sum"#"(an)treiben; planen, unternehmen"#71
+"monere, moneo"#"(er)mahnen"#7 
+"monere, ne"#"warnen, dass"#52 
+"mons, montis [m]"#"Berg"#13
+"monumentum"#"Denkmal"#1
+"mora"#"Aufenthalt, Verzögerung"#12 
+"sine ulla mora"#"unverzüglich"#43 
+"morbus"#"Krankheit"#53
+"mors, mortis [f]"#"Tod"#30
+"mortem subire"#"den Tod auf sich nehmen"#65 
+"mortalis, e"#"sterblich; Subst. Mensch"#33 
+"mortuus, a, um"#"tot"#34
+"mos, moris [m]"#"Sitte, Brauch; Pl. Charakter"#35
+"more m. Gen."#"nach Art von, nach Sitte von"#36 
+"movere, moveo, movi, motum"#"bewegen"#12
+"movere, moveo, movi, motum"#"bewegen"#24
+"movere, moveo, movi, motum"#"bewegen"#32
+"mox"#"Adv. bald"#10
+"mulier, mulieris [f]"#"Frau"#42
+"multa [n]"#"Pl. viel(es)"#15
+"multis locis"#"an vielen Orten"#35
+"multitudo, multitudinis [f]"#"große Zahl, Menge"#23 
+"multum"#"Adv. sehr, viel"#65
+"multum temporis"#"viel Zeit"#69
+"non multum abest, quin"#"es fehlt nicht viel, dass"#71
+
+"multus, a, um"#"viel"#15
+"multos annos"#"viele Jahre (lang) (wie lange?)"#17
+"multos dies"#"viele Tage (lang) (wie lange?)"#43 
+"munitio, munitionis [f]"#"Bau, Befestigung"#35 
+"munus, muneris [n]"#"Aufgabe; Geschenk"#15 
+"murus"#"Mauer"#12
+"mutare"#"(ver)ändern, verwandeln"#20
+"nam"#"denn, nämlich"#2
+"narrare"#"erzählen"#10
+"nasci, nascor, natus sum"#"entstehen, geboren werden"#68
+"natio, nationis [f]"#"Volk, Volksstamm"#17
+"natura"#"Beschaffenheit, Natur, Wesen"#12
+"nauta [m]"#"Seemann, Matrose"#43
+"navigare"#"(mit dem Schiff) fahren, segeln"#30 
+"navis, navis [f]"#"Schiff"#19
+"magister navis"#"Kapitän"#43
+"-ne"#"(unübersetzte Fragepartikel)"#22
+"ne ... quidem"#"nicht ... einmal"#34
+"ne"#"Subj. m. Konj. dass nicht, damit nicht"#46
+"ne"#"Subj. m. Konj. dass nicht, damit nicht"#47 
+"ne qua femina"#"dass / damit nicht (irgend)eine Frau, damit keine Frau"#56
+"ne umquam"#"dass nie(mals)"#46
+"ne"#"m. Konj. Perf. nicht (verneinter Befehl)"#53 
+"nec"#"und nicht, auch nicht, nicht einmal"#55 
+"nec ... nec"#"weder ... noch"#55
+"necare"#"töten"#18
+"necessarius, a, um"#"notwendig"#55
+"necesse est"#"es ist notwendig"#29
+"nefarius, a, um"#"gottlos, verbrecherisch"#53 
+"neglegere, neglego, neglexi, neglectum"#"nicht (be)achten, vernachlässigen"#34
+"negotium"#"Aufgabe, Geschäft; Angelegenheit"#6
+"negotia agere"#"(seinen) Geschäften nachgehen"#6 
+"nemo (Gen. neminis, Dat. nemini, Akk. neminem)"#"niemand, kein(er)"#3
+"nemo (Gen. neminis, Dat. nemini, Akk. neminem)"#"niemand, kein(er)"#33
+"nemo dubitat, quin"#"niemand zweifelt daran, dass"#71
+"nepos, nepotis [m]"#"Enkel"#25
+"neque"#"und nicht, auch nicht, nicht einmal"#7 
+"neque ... neque"#"weder ... noch"#8
+"neque enim"#"denn nicht"#26
+"neque tarnen"#"und trotzdem nicht"#9
+"nescire, nescio, nesci(v)i"#"nicht wissen"#42 
+"neve / neu"#"oder nicht, und nicht"#73
+"nex, necis [f]"#"Mord, (gewaltsamer) Tod"#9
+"neces parare"#"Mordanschläge vorbereiten"#9
+
+"legatio, legationis [f]"#"Gesandtschaft"#71 
+"legatus"#"Bevollmächtigter, Gesandter"#62
+"legere, lego, legi, lectum"#"lesen"#44 
+"legio, legionis [f]"#"Legion (ca. 5000 - 6000 Mann)"#66 
+"leo, leonis [m]"#"Löwe"#53
+"levis, e"#"leicht, leichtsinnig"#70
+"lex, legis [f]"#"Gesetz, Bedingung"#49 
+"libellus"#"kleines Buch, Heft"#22 
+"libenter"#"Adv. gern"#10
+"liber, libera, liberum"#"frei"#36 
+"liber, libri [m]"#"Buch"#44
+"liberare"#"befreien, freilassen"#7 
+"liberi, liberorum [m]"#"Pl. Kinder"#13 
+"libertas, libertatis [f]"#"Freiheit"#49 
+"licentia"#"Freiheit, Willkür"#25
+"licet, licuit"#"es ist erlaubt, es ist möglich"#38 
+"lictor, lictoris [m]"#"Liktor"#7
+"lingua"#"Rede, Sprache, Zunge"#44
+"lingua"#"Rede, Sprache, Zunge"#52 
+"littera"#"Buchstabe"#70
+"litterae, litterarum [f]"#"Pl. Literatur, Wissenschaft"#44 
+"litus, litoris [n]"#"Strand, Küste"#19
+"locus"#"Ort, Platz, Stelle"#5
+"loca, locorum [n]"#"Pl. Orte, Plätze"#56
+"locum dare"#"Platz machen"#5
+"multis locis"#"an vielen Orten"#35 
+"longus, a, um"#"lang, weit"#21
+"loqui, loquor, locutus sum"#"reden, sprechen"#68 
+"ludere, ludo, lusi"#"spielen, scherzen"#11
+"ludere, ludo, lusi"#"spielen, scherzen"#21
+"ludus"#"Spiel; Schule"#21
+"lumen, luminis [n]"#"Licht, Auge"#36 
+"lux, lucis [f]"#"Licht, Tageslicht"#34
+"luxuria"#"Überfluss,Verschwendungssucht"#55
+"magis"#"Adv. mehr, eher"#70
+"magister, magistri [m]"#"Lehrer"#43
+"magister navis"#"Kapitän"#43
+"magistratus, magistratus [m]"#"Amt, Beamter"#37 
+"magnus, a, um"#"groß, bedeutend"#14
+"magna, magnorum [n]"#"Pl. Großes, große Werke"#27 
+"magna voce"#"mit lauter Stimme"#14
+"magni aestimare"#"hoch (ein)schätzen"#38
+"magni esse"#"viel wert sein /gelten"#38
+"magni facere"#"hoch (ein)schätzen"#38
+"magni putäre"#"hoch (ein)schätzen"#38 
+"maior, maioris"#"größer"#65
+"maiores, maiorum [m]"#"Pl. Vorfahren"#44 
+"malle, malo, malui"#"lieber wollen"#41
+
+"malus, a, um"#"schlecht, schlimm"#15 
+"mala, malorum [n]"#"Pl. Schlechtes; schlimme Dinge"#18
+"mandare"#"einen Auftrag geben, übergeben"#28 
+"manere, maneo, mansi"#"bleiben, (er)warten"#10
+"manere, maneo, mansi"#"bleiben, (er)warten"#21 
+"manifestus, a, um"#"offenkundig; überführt"#72 
+"manus, manus [f]"#"Hand; Schar (von Bewaffneten)"#27
+"mare, maris [n]"#"Meer"#18
+"terra marique"#"zu Wasser und zu Lande"#18 
+"maritus"#"Ehemann"#8
+"mater, matris [f]"#"Mutter"#24
+"maxime"#"Adv. am meisten, besonders"#65 
+"maximus, a, um"#"der größte, sehr groß"#40 
+"me auctore"#"auf meine Veranlassung"#58 
+"me invito"#"gegen meinen Willen"#58
+"me pudet"#"ich schäme mich"#61
+"medius, a, um"#"der mittlere, in der Mitte (von)"#14
+"media in fronte"#"mitten auf der Stirn"#32
+"media in via"#"mitten auf der Straße"#14 
+"melior, melioris"#"besser"#65
+"membrum"#"Glied, Körperteil"#32
+"meminisse, memini"#"Perf. m. Gen. / Akk. sich erinnern; m. Acl. daran denken"#66 
+"memor, memoris m. Gen."#"in Erinnerung an ('eingedenk')"#70
+"memorare"#"erwähnen, sagen"#72
+"memoria"#"Erinnerung, Gedächtnis; Zeit"#22
+"memoria tenere"#"im Gedächtnis behalten"#22 
+"mens, mentis [f]"#"Geist, Sinn, Verstand; Meinung"#22
+"mensa"#"Tisch"#46
+"mensis, mensis [m]"#"Monat"#35
+"mercator, mercatoris [m]"#"Kaufmann, Händler"#3 
+"metuere, metuo, metui"#"(sich) fürchten"#30 
+"metus, metus [m]"#"Angst"#27
+"metu coactus"#"aus Angst"#64
+"meus, a, um"#"mein"#15
+"mihi Dat."#"mir"#11
+"mihi placet"#"mir gefällt es, ich beschließe"#25 
+"mihi tecum est"#ich habe mit dir zu tun"#68 
+"miles, militis [m]"#"Soldat"#17
+"milites conscribere"#"Soldaten ausheben"#35 
+"milia passuum"#"(mehrere) Meilen"#36
+"mille Sg. indekl. (Pl. milia, milium)"#"tausend"#22
+"mille Sg. indekl. (Pl. milia, milium)"#"tausend"#36
+"mille passus"#"eine Meile (ca. 1,5 km; eigentl. tausend Schritte)"#36
+"minime"#"Adv. am wenigsten, überhaupt nicht"#72
+
+"iniquus, a, um"#"ungerecht, ungleich"#73
+"inire, ineo, inii, initum"#"hineingehen, beginnen"#39
+"consilium inire"#"einen Beschluss fassen"#39 
+"proelium inire"#"den Kampf beginnen"#39
+"initium"#"Anfang, Eingang"#23
+"iniuria"#"Unrecht, Beleidigung"#7
+"inopia"#"Mangel, Not"#40
+"inquam (3. Pers. Sg. inquit)"#"sag(t)e ich"#31
+"insidiae, insidiarum [f]"#"Pl. Falle, Attentat, Hinterlist"#40
+"instare, insto, institi"#"bevorstehen, hart zusetzen"#48
+"instituere, instiruo, institui, institutum"#"beginnen, einrichten, unterrichten"#45
+"instruere, instruo, instruxi, instructum"#"aufstellen, ausrüsten, unterrichten"#63
+"insula"#"Insel; Wohnblock"#12
+"intellegere, intellego, intellexi"#"(be)merken, verstehen"#22
+"inter m. Akk."#"unter, während, zwischen"#25
+"interest inter m. Akk."#"es ist ein Unterschied zwischen"#43
+"interdum"#"Adv. manchmal"#36
+"interea"#"Adv. inzwischen, unterdessen"#5
+"interesse, intersum, interfui"#"dazwischen sein; (m. Dat.) teilnehmen (an)"#54
+"interest inter m. Akk."#"es ist ein Unterschied zwischen"#43
+"interficere, interficio, interfeci, interfectum"#"töten, vernichten"#28
+"interficere, interficio, interfeci, interfectum"#"töten, vernichten"#34
+"interim"#"Adv. inzwischen"#57
+"interrogare"#"fragen"#2
+"intra m. Akk."#"innerhalb (von)"#30
+"intrare"#"betreten, eintreten"#3
+"intueri, intueor"#"anschauen"#67
+"intus"#"Adv. im Inneren, innen"#4
+"invadere, invado, invasi, invasum"#"eindringen, sich verbreiten; befallen"#56
+"invenire, invenio, inveni, inventum"#"finden, erfinden"#11
+"invenire, invenio, inveni, inventum"#"finden, erfinden"#26
+"invenire, invenio, inveni, inventum"#"finden, erfinden"#32
+"invidia"#"Neid"#46
+"invitus, a, um"#"ungern, gegen den Willen"#58 
+"me invito"#"gegen meinen Willen"#58
+"rege invito"#"gegen den Willen des Königs"#58 
+"ipse, ipsa, ipsum (Gen. ipsius, Dat. ipsi)"#(er, sie, es) selbst"#40
+"ira"#Zorn"#25
+"ira incensus"#"von Zorn entflammt, aus Zorn"#38
+"irae temperare"#"seinen Zorn zurückhalten"#56
+"irasci, irascor (m. Dat)"#"in Zorn geraten, zornig sein (gegen)"#68
+"ire, eo, ii, itum"#"gehen"#39
+"is, ea, id"#"dieser, diese, dieses; er, sie, es"#22
+"non is est, qui"#"m. Konj. er ist nicht der Mann, der"#66
+"iste, ista, istud (Gen. istius, Dat. isti)"#"dieser, diese, dieses (da)"#52
+"ita"#"Adv. so"#6
+"itaque"#"Adv. deshalb"#4
+"item"#"Adv. ebenso, gleichfalls"#8
+"iter, itineris [n]"#"Reise, Marsch, Weg"#35
+"iter facere"#"eine Reise machen"#35
+"iter pergere"#"die Reise / den Weg fortsetzen"#43 
+"iterum"#"Adv. wiederum"#9
+"iterum atque iterum"#"immer wieder"#14 
+"iubere, iubeo, iussi (m. Akk.)"#"anordnen, befehlen"#17
+"iubere, iubeo, iussi (m. Akk.)"#"anordnen, befehlen"#19
+"iucundus, a, um"#"angenehm, erfreulich"#36 
+"iudex, iudicis [m]"#"Richter"#37
+"iudicare"#"beurteilen, urteilen"#23
+"iudicium"#"Gericht; Urteil"#26
+"iurare"#"schwören"#41
+"ius, iuris [n]"#"Recht"#37
+"in ius vocare"#"vor Gericht rufen, anklagen"#37 
+"ius dicere"#"Recht sprechen"#37
+"iusiurandum"#"Eid, Schwur"#41
+"iussu"#"auf Befehl"#32
+"iustitia"#"Gerechtigkeit"#49
+"iustus, a, um"#"gerecht"#52
+"iuvare, iuvo, iuvi"#"unterstützen, erfreuen"#23 
+"iuvenis, iuvenis [m]"#"junger Mann; jung"#23 
+"iuventus, iuventutis [f]"#"Jugend"#39
+
+"labor, laboris [m]"#"Anstrengung, Arbeit"#6
+"laborare"#"arbeiten, sich anstrengen"#3 
+"laborare m. Abl."#"leiden an"#28 
+"lacrima"#Träne"#29
+"laedere, laedo, laesi, laesum"#"beschädigen, verletzen"#33
+"laetitia"#"Freude"#31
+"laetus, a, um"#"froh, fröhlich; fruchtbar"#14
+"laetus, a, um"#"froh, fröhlich; fruchtbar"#50
+"latere, lateo"#"verborgen sein"#51 
+"latus, a, um"#"breit, ausgedehnt"#36 
+"latus, lateris [n]"#"Flanke, Seite"#15 
+"laudare"#"loben"#12
+"laus, laudis [f]"#"Lob, Ruhm"#44 
+"lectus"#"Bett, Liegesofa"#46
+
+"hora"#"Stunde; Zeit"#17
+"hortari, hortor, hortatus sum"#"auffordern, ermahnen"#67
+"hospes, hospitis [m]"#"Fremder, Gast, Gastgeber"#11 
+"hostia"#"Opfertier"#53
+"hostis, hostis [m/f] (Gen. Pl. hostium)"#"Feind (Landesfeind)"#26 
+"huc"#"Adv. hierher"#4
+"huc et illuc"#"hin und her"#21
+"humanitas, humanitatis [f]"#"Menschlichkeit; Bildung"#49
+"humanus, a, um"#"gebildet, menschlich"#68
+"iacere, iaceo"#"liegen"#4
+"iactare"#"(hin und her) schleudern, werfen; rühmen"#37
+"iactare"#"(hin und her) schleudern, werfen; rühmen"#50
+"iam"#"Adv. nun; schon, bereits"#2
+"non iam"#"nicht mehr"#5
+"ibi"#"Adv. dort"#2
+"idem ... qui"#"derselbe / der gleiche ... wie"#41
+"idem, eadem, idem"#"derselbe, der gleiche"#40 
+"idoneus, a, um"#"geeignet, passend"#26
+"igitur"#"Adv. also, folglich"#31
+"ignarus, a, um (m. Gen.)"#"ohne Kenntnis, unwissend"#58
+"te ignaro"#"ohne dein Wissen"#58
+"ignis, ignis [m]"#"Feuer"#28
+"ignobilis, e"#"unbekannt, unbedeutend; nicht adelig"#59
+"ignorare"#"nicht kennen, nicht wissen"#7
+"non ignorare"#"gut kennen, wohl wissen"#16 
+"ignoscere, ignosco, ignovi, ignotum"#"verzeihen"#11
+"ignoscere, ignosco, ignovi, ignotum"#"verzeihen"#59
+"ignotus, a, um"#"unbekannt"#58
+"ille, illa, illud"#"jener, jene, jenes"#37
+"illic"#"Adv. dort"#36
+"illuc"#"Adv. dahin, dorthin"#4
+"huc et illuc"#"hin und her"#21
+"imago, imaginis [f]"#"Abbild, Bild"#50
+"imitari, imitor, imitatus sum"#"nachahmen"#67 
+"immo"#"Adv. im Gegenteil, ja sogar"#9
+"immortalis, e"#"unsterblich"#42
+"impedire, impedio, impedivi, impeditum"#"hindern, verhindern"#35
+"impellere, impello, impuli, impulsum"#"antreiben, veranlassen"#43
+"imperare (m. Dat.)"#"befehlen, herrschen (über)"#14 
+"imperator, imperatoris [m]"#"Befehlshaber, Feldherr; Kaiser"#35
+"imperium"#"Befehl, Befehlsgewalt; Herrschaft, Herrschaftsgebiet"#24
+"toto imperio"#"im ganzen Reich"#35
+"impetus, impetus [m]"#"Angriff, Schwung"#27
+"impetum facere (in m. Akk.)"#"(jmd.) angreifen"#66 
+"impius, a, um"#"gottlos, gewissenlos"#56
+"imprimis"#"Adv. besonders, vor allem"#4
+"improhus, a, um"#"schlecht, unanständig"#52 
+"in m. Abl."#"in, an, auf, bei (wo?)"#6
+"in re publica versari"#"sich politisch betätigen"#69 
+"in summo discrimine"#"in höchster Gefahr"#61
+"in m. Akk."#"in (... hinein), nach (... hin), auf, gegen (wohin?)"#6
+"in fugam vertere"#"in die Flucht schlagen"#66 
+"in ius vocare"#"vor Gericht rufen, anklagen"#37 
+"in vincula conicere"#"in Fesseln legen, fesseln"#47
+"in vincula dare"#"in Fesseln legen, fesseln"#25 
+"inanis, e"#"leer, wertlos"#69
+"incendere, incendo, incendi"#"entflammen, in Brand stecken"#15
+"incendere, incendo, incendi"#"entflammen, in Brand stecken"#24
+"ira incensus"#"von Zorn entflammt, aus Zorn"#38 
+"incendium"#"Brand, Feuer"#15
+"incertus, a, um"#"ungewiss, unsicher"#71
+"incipere, incipio, coepi (incepi), inceptum"#"anfangen, beginnen"#33
+"incola [m]"#"Einwohner, Bewohner"#45
+"incredibilis, e"#"unglaublich"#49
+"incredibili quadam virtute"#"mit geradezu unglaublicher Tapferkeit"#66
+"inde"#"Adv. von dort; darauf; deshalb"#45
+"indicare"#"anzeigen, melden"#15
+"indignus, a, um m. Abl."#"unwürdig (einer Sache)"#28
+"induere, induo, indui, indutum"#"anziehen, anlegen"#45
+"inesse, insum, infui"#"enthalten sein, innewohnen"#64
+"infelix, infelicis"#"unglücklich"#29
+"inferre, infero, intuli, illatum"#"hineintragen, zufügen"#62
+"bellum inferre (m. Dat.)"#"(jmd.) angreifen"#62 
+"infestus, a, um"#"feindlich, feindselig"#32
+"ingenium"#"Begabung, Talent"#31
+"tantum ingenii"#"so viel (an) Begabung"#69 
+"ingens, ingentis"#"gewaltig, ungeheuer"#26 
+"ingredi, ingredior, ingressus sum"#"betreten, beginnen"#68
+"inimicus, a, um"#"feindlich; Subst. Feind"#38
+
+"fidem dare"#"sein Wort geben"#33 
+"fidem servare"#"sein Wort halten"#34 
+"fiducia"#"Vertrauen"#48
+"fiducia sui"#"Vertrauen zu sich, Selbstvertrauen"#48
+"fieri, fio, factus sum"#"gemacht werden; geschehen, werden"#69
+"figere, figo, fixi, fixum"#"heften, befestigen"#46 
+"filia"#"Tochter"#1
+"filius"#"Sohn"#1
+"fingere, fingo, finxi, fictum"#"gestalten, sich (etwas) ausdenken"#50
+"finis, finis [m]"#"Ende, Grenze; Ziel, Zweck; Pl. Gebiet"#17
+"finitimus, a, um"#"angrenzend, benachbart"#64 
+"finitimi, finitimorum"#"Subst. Pl. (Grenz-)Nachbarn"#64
+"firmus, a, um"#"stark, fest, zuverlässig"#64 
+"flagitium"#"Gemeinheit, Schandtat"#56 
+"flamma"#"Flamme, Feuer"#7
+"flectere, flecto, flexi, flexum"#"biegen, (hin)lenken, umstimmen"#52
+"flere, fleo, flevi"#"beklagen, (be)weinen"#23 
+"fluctus, fluctus [m]"#"Flut, Strömung"#43 
+"flumen, fluminis [n]"#"Fluss"#28
+"fons, fontis [m]"#"Quelle, Ursprung"#13 
+"foras"#"Adv. heraus, hinaus (wohin?)"#8 
+"fore (futurum esse)"#"sein werden"#54
+"foris"#"Adv. außerhalb, draußen, im Krieg (wo?)"#37 
+"forte"#"Adv. zufällig"#34
+"fortis, e"#"kräftig, tapfer"#19
+"fortuna"#"Schicksal, Glück"#19
+"forum"#"Forum, Marktplatz"#1
+"frangere, frango, fregi, fractum"#"zerbrechen"#11
+"frangere, frango, fregi, fractum"#"zerbrechen"#49
+"frater, fratris [m]"#"Bruder"#25
+"frequens, frequentis"#"häufig, zahlreich"#42 
+"frons, frontis [f]"#"Stirn, Vorderseite"#32
+"media in fronte"#"mitten auf der Stirn"#32 
+"fructus, fructus [m]"#"Ertrag, Frucht, Nutzen"#32 
+"frumentum"#"Getreide"#5
+"frustra"#"Adv. vergeblich"#24
+"fuga"#"Flucht"#60
+"in fugam vertere"#"in die Flucht schlagen, vertreiben"#66
+"salutem fuga petere"#"Rettung in der Flucht suchen"#60
+"fugere, fugio, fugi m. Akk."#"fliehen (vor), meiden"#38
+"fundere, fundo, fudi"#"(aus)gießen, zerstreuen"#29
+"fur, furis [m/f]"#"Dieb; Diebin"#7
+"furor, furoris [m]"#"Wahnsinn, Wut"#59 
+"furtum"#"Diebstahl; Hinterlist"#9 
+"futurus, a, um"#"zukünftig"#25
+"futura, futurorum [n]"#"Pl. Zukunft"#25 
+"futurum esse (fore)"#"sein werden"#54
+"gaudere, gaudeo (m. Abl.)"#"sich freuen (über)"#2 
+"gaudium"#"Freude"#34
+"gemitus, gemitus [m]"#"Seufzen, Traurigkeit"#48 
+"gens, gentis [f]"#"Familienverband, Stamm, Volk"#35
+"genus, generis [n]"#"Abstammung, Art, Geschlecht"#57 
+"gerere, gero, gessi, gestum"#"tragen, ausführen, führen"#17
+"gerere, gero, gessi, gestum"#"tragen, ausführen, führen"#28
+"gerere, gero, gessi, gestum"#"tragen, ausführen, führen"#40
+"res gestae"#"Pl. Taten"#40
+"se gerere"#"sich verhalten"#59
+"gladiator, gladiatoris [m]"#"Gladiator, Schwertkämpfer"#21
+"gladius"#"Schwert"#46
+"gloria"#"Ehre, Ruhm"#21
+"grandis, e"#"alt; bedeutend, groß"#36
+"gritia"#"Dank, Gefälligkeit; Ansehen, Beliebtheit"#10 
+"gratias agere"#"danken"#10
+"gratus, a, um"#"dankbar, willkommen, beliebt"#36 
+"gravis, e"#"schwer, gewichtig, ernst, bedeutend"#51
+"habere, habeo"#"haben, halten"#6
+"consilium habere"#"eine Beratung abhalten"#6 
+"non habeo, quod"#"m. Konj. ich habe keinen Grund dafür, dass"#67
+"orationem habere"#"eine Rede halten"#45
+"habitare"#"bewohnen, wohnen"#45 
+"habitus, habitus [m]"#"Aussehen"#45 
+"haud"#"nicht"#12
+"haud scio, an"#"ich weiß nicht, ob nicht; vielleicht"#71
+"hic"#"Adv. hier"#2
+"hic, haec, hoc"#"dieser, diese, dieses (hier)"#37
+"his de causis"#"aus diesen Gründen, deshalb"#44 
+"hiems, hiemis [f]"#"Winter, Unwetter"#54
+"hodie"#"Adv. heute"#11
+"homo, hominis [m]"#"Mensch"#16
+"honestus, a, um"#"angesehen, ehrenhaft"#38
+"honor / honos, honoris [m]"#"Ehre, Ehrenamt"#31 
+"aliquid honoris"#"irgendeine Ehre"#69 
+"honore affici"#"geehrt werden, Ehre erlangen"#37
+
+"e / ex m. Abl."#"aus, von ... her; seit"#6
+"e / ex m. Abl."#"aus, von ... her; seit"#51 
+"ecce"#"schau / schaut, sieh da / seht da!"#6 
+"educare"#"erziehen"#63
+"educere, educo, eduxi (eductum)"#"herausführen"#9
+"educere, educo, eduxi (eductum)"#"herausführen"#24
+"efficere, efficio, effeci, effectum"#"bewirken, herstellen"#46
+"effugere, effugio, effugi m. Akk."#"entfliehen, entkommen"#18
+"effugere, effugio, effugi m. Akk."#"entfliehen, entkommen"#21
+"egere, egeo m. Abl."#"brauchen, benötigen, Mangel haben (an)"#49
+"ego"#"ich"#8
+"egredi, egredior, egressus sum"#"herausgehen, verlassen"#68
+"egregius, a, um"#"ausgezeichnet, hervorragend"#44
+"eiusmodi"#"derartig, so beschaffen"#22 
+"eloquentia"#"Redegewandtheit, Rhetorik"#63 
+"emere, emo, emi, emptum"#"kaufen"#4
+"emere, emo, emi, emptum"#"kaufen"#35 
+"enim (nachgestellt)"#"Adv. nämlich, in der Tat"#7
+"neque enim"#"denn nicht"#26
+"eo"#"Adv dorthin; deswegen"#14
+"epistula"#"Brief"#12
+"eques, equitis [m]"#"Reiter, Ritter"#52 
+"equidem"#"(ich) allerdings, freilich"#36 
+"equus"#"Pferd"#5
+"ergo"#"Adv. also, deshalb"#51
+"eripere, eripio, eripui, ereptum"#"entreißen"#62 
+"errare"#"(sich) irren, umherirren"#53
+"esse, sum, fui"#"sein, sich befinden"#2
+"esse, sum, fui"#"sein, sich befinden"#4
+"esse, sum, fui"#"sein, sich befinden"#7
+"esse, sum, fui"#"sein, sich befinden"#18 
+"et"#"und, auch"#2
+"et ... et"#"sowohl ... als auch"#4
+"etiam"#"auch, sogar"#3
+"etsi"#"Subj. m. Ind. auch wenn, obwohl"#60 
+"evenire, evenio, eveni, eventum"#"sich ereignen"#37
+"excipere, excipio, excepi, exceptum"#"ausnehmen, aufnehmen, empfangen"#38 
+"excitare"#"erregen, ermuntern, wecken"#40 
+"exemplum"#"Beispiel, Vorbild"#37
+"exemplum statuere"#"ein Exempel statuieren"#53 
+"exercere, exerceo"#"üben, trainieren; quälen"#36 
+"exercitus, exercitus [m]"#"Heer"#41
+"exigere, exigo, exegi, exactum"#"(ein)fordern, vollenden"#71
+"exilium"#"Exil, Verbannung"#51
+"exire, exeo, exii, exitum"#"herausgehen"#40
+
+"existimare"#"einschätzen, meinen"#20
+"pluris existimare"#"höher einschatzen"#58 
+"exitus, exitus [m]"#"Ende, Ausgang"#30 
+"expellere, expello, expuli, expulstim"#"vertreiben, verbannen"#45
+"experiri, experior, expertus sum"#"erfahren, versuchen"#68
+"explicare"#"erklären"#50
+"exspectare"#"warten, erwarten"#3 
+"exstinguere, exstinguo, exstinxi, exstinctum"#"auslöschen, vernichten"#15
+"exstinguere, exstinguo, exstinxi, exstinctum"#"auslöschen, vernichten"#18
+"exstinguere, exstinguo, exstinxi, exstinctum"#"auslöschen, vernichten"#59
+"exter, extera, exterum"#"ausländisch"#61 
+"extra m. Akk."#"außerhalb (von)"#18
+"faber, fabri [m]"#"Arbeiter, Handwerker"#14
+"fabula"#"Erzählung, Geschichte, Theaterstück"#13 
+"fabulam agere"#"ein Theaterstück spielen"#22 
+"facere, facio, feci, factum"#"machen, tun, handeln"#15
+"facere, facio, feci, factum"#"machen, tun, handeln"#23
+"facere, facio, feci, factum"#"machen, tun, handeln"#31
+"facere m. dopp. Akk."#"machen zu"#35
+"impetum facere (in m. Akk.)"#"(jmd.) angreifen"#66 
+"iter facere"#"eine Reise machen"#35
+"sacra facere"#"Opfer darbringen, opfern"#41 
+"facile"#"Adv. leicht"#55
+"facilis, e"#"leicht (zu tun)"#55
+"facinus, facinoris [n]"#"Handlung, Untat"#72 
+"factum"#"Handlung, Tat; Tatsache"#45
+"facultas, facultatis [f]"#"Fähigkeit; Möglichkeit"#63 
+"fallere, fallo, fefelli"#"täuschen, betrügen"#64
+"fallit me"#"ich täusche mich, es entgeht mir"#64
+"falso"#"Adv. fälschlich"#25
+"falsus, a, um"#"falsch"#25
+"fama"#"(guter /schlechter) Ruf"#72
+"fames, famis [f]"#"Hunger"#62
+"familia"#"Familie, Hausgemeinschaft"#12 
+"familiaris, familiaris [m]"#"Freund"#13
+"familiaris, e"#"freundschaftlich, vertraut"#19
+"res familiaris"#"Vermögen"#28
+"fateri, fateor, fassus sum"#"bekennen, gestehen"#69
+"felix, felicis"#"glücklich, erfolgreich, glückbringend"#26
+"femina"#"Frau"#4
+"fere"#"Adv. beinahe, fast; ungefähr"#59
+"ferre, fero, tuli, latum"#"bringen, tragen; ertragen"#62
+"ferus, a, um"#"wild"#28
+"fides, fidei [f]"#"Glaube, Treue, Vertrauen, Zuverlässigkeit"#28
+
+"deligere, deligo, delegi, delectum"#"(aus)wählen"#51
+"demittere, demitto, demisi (demissum)"#"hinabschicken, sinken lassen"#29
+"animum demittere"#"den Mut verlieren"#29
+"demonstrare"#"beweisen, darlegen"#25 
+"denique"#"Adv. schließlich, zuletzt"#4 
+"deponere, depono, deposui (depositum)"#"niederlegen, ablegen"#5
+"deponere, depono, deposui (depositum)"#"niederlegen, ablegen"#28
+"deridere, derideo, derisi, derisum"#"auslachen, verspotten"#55
+"descendere, decendo, descendi"#"herabsteigen"#6
+"descendere, decendo, descendi"#"herabsteigen"#21
+"deserere, desero, deserui, desertum"#"im Stich lassen, verlassen"#42
+"desiderare"#"sich sehnen nach, vermissen"#8 
+"desinere, desino"#"aufhören"#11
+"desistere, desisto, destiti (ab / a m. Abl.)"#"aufhören (mit)"#46
+"desperare"#"die Hoffnung aufgeben, verzweifeln"#29
+"de salute desperare"#"die Hoffnung auf Rettung aufgeben"#29
+"deus"#"Gott, Gottheit"#10
+"deo auctore"#"auf Veranlassung Gottes"#58 
+"dexter, dext(e)ra, dext(e)rum"#"rechts"#28 
+"dicere, dico, dixi, dictum"#"sagen, sprechen; (be)nennen"#10
+"dicere, dico, dixi, dictum"#"sagen, sprechen; (be)nennen"#23
+"dicere, dico, dixi, dictum"#"sagen, sprechen; (be)nennen"#57
+"dicere m. dopp. Akk."#"nennen, bezeichnen (als)"#35
+"quibus verbis dictis"#"nach diesen Worten"#57 
+"dictum"#"Ausspruch, Wort"#45
+"dies, diei [m]"#"Tag"#28
+"multos dies"#"viele Tage (lang) (wie lange?)"#43 
+"postero die"#"am folgenden Tag"#60
+"dies, diei [f]"#"Termin"#28
+"differre, differo, distuli, dilatum (a m. Abl.)"#"aufschieben; sich unterscheiden (von)"#62 
+"difficilis, e"#"schwierig"#28
+"dignitas, dignitatis [f]"#"Ansehen, Würde; (gesellschaftliche) Stellung"#52 
+"dignus, a, um m. Abl."#"wert, würdig (einer Sache)"#44
+"diligens, diligentis"#"gewissenhaft, sorgfältig"#54 
+"diligentia"#"Sorgfalt, Umsicht"#40
+"diligere, diligo, dilexi, dilectum"#"hochachten, lieben"#46
+"dimittere, dimitto, dimisi, dimissum"#"wegschicken, entlassen, aufgeben"#5
+"dimittere, dimitto, dimisi, dimissum"#"wegschicken, entlassen, aufgeben"#47
+
+"discedere, discedo, discessi"#"weggehen, auseinandergehen"#4
+"discedere, discedo, discessi"#"weggehen, auseinandergehen"#18
+"discere, disco, didici"#"lernen, erfahren"#22 
+"disciplina"#"Erziehung, Zucht; Unterricht, Fach"#54 
+"discipulus"#"Schüler"#70
+"discrimen, discriminis [n]"#"Unterscheidung, Gefahr"#61
+"in summo discrimine"#"in höchster Gefahr"#61 
+"diu"#"Adv lange (Zeit)"#3
+"diutius"#"Adv. länger"#65
+"diversus, a, um"#"entgegengesetzt, feindlich, verschieden"#73
+"dives, divitis"#"reich"#43
+"dividere, divido, divisi, divisum"#"teilen, trennen"#25
+"dividere, divido, divisi, divisum"#"teilen, trennen"#34
+"divinus, a, um"#"göttlich"#58
+"divitiae, divitiarum [f]"#"Pl. Reichtum"#45 
+"divus, a, um"#"göttlich"#52
+"docere, doceo, docui, doctum"#"lehren, unterrichten"#31
+"doctus, a, um"#"gebildet, gelehrt"#63
+"dolere, doleo"#"schmerzen, wehtun; bedauern"#69 
+"dolor, doloris [m]"#"Schmerz"#23
+"dolus"#"List, Täuschung"#24
+"domi"#"Adv. zu Hause"#41
+"domina"#"Hausherrin, Dame"#1
+"dominus"#"Hausherr, Herr"#1
+"domo"#"Adv. von zu Hause"#48
+"domum"#"nach Hause, heim"#6
+"domus, domus [f]"#"Haus"#46
+"donare"#"schenken"#8
+"donec"#"Subj. solange (als), (so lange) bis"#48 
+"donum"#"Geschenk"#8
+"dubitare"#"zweifeln; zögern"#7
+"nemo dubitat, quin"#"niemand zweifelt daran, dass"#71
+"ducere, duco, duxi (ductum)"#"führen, ziehen"#12
+"ducere, duco, duxi (ductum)"#"führen, ziehen"#24
+"ducere m. dopp. Akk."#"halten für"#35 
+"dulcis, e"#"angenehm, süß"#33
+"dum Subj. m. Ind."#"während, solange, (so lange) bis"#5
+"duo, duae, duo"#"zwei"#25
+"duodecim"#"indekl. zwölf"#26
+"durus, a, um"#"hart"#14
+"dux, ducis [m/f]"#"Anführer(in)"#51 
+"Polynice duce"#"unter der Führung des Polyneikes"#58
+
+"contingere, contingo, contigi, contactum"#"berühren; gelingen"#51
+"contra m. Akk."#"gegen"#27
+"convenire, convenio, conveni, conventum"#"zusammenkommen, zusammenpassen; besuchen, treffen"#36, 38
+"convertere, converto, converti, conversum"#"verändern, (um)wandeln, verwandeln"#29
+"convertere, converto, converti, conversum"#"verändern, (um)wandeln, verwandeln"#41
+"convertere animum / animos (m. Gen.)"#"(jmds.) Einstellung ändern"#57
+"convivium"#"Gastmahl, Gelage"#27
+"convocare"#"versammeln"#42
+"copia"#"Menge; Möglichkeit; Vorrat; Pl. Truppen"#28
+"cor, cordis [n]"#"Herz"#43
+"cordi esse"#"am Herzen liegen"#43
+"corpus, corporis [n]"#"Körper, Leichnam"#15
+"corripere, corripio, corripui, correptum"#"ergreifen, gewaltsam an sich reißen"#26
+"corripere, corripio, corripui, correptum"#"ergreifen, gewaltsam an sich reißen"#32
+"corrumpere, corrumpo, corrupi, corruptum"#"bestechen, verderben"#55
+"credere, credo, credidi, creditum"#"anvertrauen, glauben"#33
+"crescere, cresco, crevi"#"wachsen"#47
+"crimen, criminis [n]"#"Beschuldigung, Vorwurf, Verbrechen"#15
+"crimini dare"#"zum Vorwurf machen"#43
+"crudelis, e"#"grausam"#20
+"crudelitas, crudelitatis [f]"#"Grausamkeit"#22
+"culpa"#"Schuld"#37
+"in culpä esse"#"schuldig sein"#37
+"cultus, cultus [m]"#"Bildung, Lebensweise; Pflege, Verehrung"#36
+"cum m. Abl."#"mit, zusammen mit"#6
+"cum Subj. m. Ind. "#"als (plötzlich), (zu der Zeit) als, (immer) wenn"#29
+"cum Subj. m. Konj."#"als, nachdem"#48
+"cum Subj. m. Konj."#"als, nachdem; weil, da"#50
+"cum Subj. m. Konj."#"als, nachdem; weil, da; obwohl; während (dagegen)"#60
+"cuncti, ae, a"#"alle (zusammen)"#24
+"cupere, cupio, cupivi"#"verlangen, wünschen, wollen"#15
+"cupere, cupio, cupivi"#"verlangen, wünschen, wollen"#25
+"cupidus, a, um (m. Gen.)"#"(be)gierig (nach)"#53
+"cur?"#"warum?"#2
+"cura"#"Sorge, Pflege"#36
+"curae esse"#"Sorge bereiten"#43
+"curare (m. Akk.)"#"pflegen, sorgen für"#7
+"curia"#"Kurie (Sitzungsgebäude des Senats)"#3
+"curiam petere"#"die Kurie aufsuchen, zur Kurie eilen"#5
+"currere, curro, cucurri"#"eilen, laufen"#21
+
+"cursus, cursus [m]"#"Lauf"#27
+"cursus honorum"#"Ämterlaufbahn"#35
+"custodire, ccustodio"#"bewachen, (be)hüten"#66
+"custos, custodis [m/f]"#"Wächter(in)"#10
+"damnare"#"verurteilen"#23
+"capitis damnare"#"zum Tode verurteilen"#35
+"dare, do, dedi"#"geben"#5
+"dare, do, dedi"#"geben"#26
+"aures dare"#"zuhören"#29
+"crimini dare"#"zum Vorwurf machen"#43
+"fidem dare"#"sein Wort geben"#33
+"in vincula dare"#"in Fesseln legen, fesseln"#25
+"locum dare"#"Platz machen"#5
+"operam dare (m. Dat.)"#"sich Mühe geben (bei)"#63
+"se dare m. Dat"#"sich widmen"#36
+"veniam dare"#"verzeihen"#11
+"viam dare"#"Platz machen"#14
+"de m. Abl."#"von, von ... her, von ... herab; über"#6
+"de pretio agere"#"über den Preis verhandeln"#6
+"de salute desperare"#"die Hoffnung auf Rettung aufgeben"#29
+"de victoria certare"#"um den Sieg streiten"#56
+"de vita decedere"#"sterben, umkommen"#18
+"his de causis"#"aus diesen Gründen, deshalb"#44
+"dea"#"Göttin"#7
+"debere, debeo"#"müssen, sollen; schulden"#7
+"debere, debeo"#"müssen, sollen; schulden"#10
+"non debere"#"nicht dürfen"#13
+"decedere, decedo, decessi, decessum"#"weggehen; sterben"#18
+"decedere, decedo, decessi, decessum"#"weggehen; sterben"#57
+"de vita decedere"#"sterben, umkommen"#18
+"decem"#"indekl. zehn"#23
+"decernere, decerno, decrevi"#"beschließen, entscheiden"#23
+"decimus, a, um"#"der (die, das) zehnte"#28
+"decipere, decipio, decepi, deceptum"#"täuschen"#33
+"dedere, dedo, dedidi, deditum"#"ausliefern, übergeben"#62
+"deducere, deduco, deduxi, deductum"#"hinführen, wegführen"#58
+"deesse, desum"#"abwesend sein, fehlen"#7
+"defendere, defendo, defendi"#"abwehren, verteidigen"#23
+"deferre, defero, detuli, delatum"#"hinbringen, melden, übertragen"#71
+"deinde"#"Adv. dann, darauf"#13
+"delectare"#"erfreuen, unterhalten"#8
+"delere, deleo, delevi, deletum"#"zerstören, vernichten"#18
+"delere, deleo, delevi, deletum"#"zerstören, vernichten"#31
+"deliberare, delibero"#"überlegen, beraten"#70
+
+"cogere, cogo, coegi, coactum"#"(ver)sammeln, zwingen"#38
+"metu coactus"#"aus Angst"#64
+"cogitare"#"beabsichtigen, denken"#41 
+"cognoscere, cognosco, cognovi, cognitum"#"erkennen, kennenlernen; Perf. kennen, wissen"#19
+"cognoscere, cognosco, cognovi, cognitum"#"erkennen, kennenlernen; Perf. kennen, wissen"#57
+"cohors, cohortis [f]"#"Kohorte (ca. 600 Mann)"#35
+"colere, colo, colui, cultum"#"bewirtschaften, pflegen; verehren"#10
+"colere, colo, colui, cultum"#"bewirtschaften, pflegen; verehren"#39
+"colligere, colligo, collegi, collectum"#"sammeln"#24
+"colligere, colligo, collegi, collectum"#"sammeln"#31
+"collocare"#"aufstellen, unterbringen"#35
+"castra collocare"#"das Lager aufschlagen"#35 
+"collum"#"Hals"#69
+"comes, comitis [m/f]"#"Begleiter(in), Gefährte, Gefährtin"#10
+"committere, committo, commisi, commissum"#"anvertrauen; veranstalten, zustande bringen"#37 
+"scelus committere"#"ein Verbrechen begehen"#37
+"commodus, a, um"#"angemessen, angenehm, günstig"#70
+"commovere, commoveo, commovi, commotum"#"bewegen, veranlassen"#33
+"communis, e"#"gemeinsam, allgemein"#21 
+"comparare"#"vergleichen"#46
+"comperire, comperio, comperi, compertum"#"(genau) erfahren"#44
+"complere, compleo, complevi, completum"#"anfüllen"#43
+"complures, complurium"#"mehrere"#54 
+"componere, compono, composui, compositum"#"verfassen, ordnen; beenden; vergleichen"#6
+"componere, compono, composui, compositum"#"verfassen, ordnen; beenden; vergleichen"#46
+"comprehendere, comprehendo, comprehendi, comprehensum"#"ergreifen, festnehmen, begreifen"#6
+"comprehendere, comprehendo, comprehendi, comprehensum"#"ergreifen, festnehmen, begreifen"#22
+"comprehendere, comprehendo, comprehendi, comprehensum"#"ergreifen, festnehmen, begreifen"#56
+"concedere, concedo, concessi (concessum)"#"erlauben, nachgeben, zugestehen"#26
+"condere, condo, condidi, conditum"#"verwahren, verbergen; erbauen, gründen"#25
+"condere, condo, condidi, conditum"#"verwahren, verbergen; erbauen, gründen"#36
+"condicio, condicionis [f]"#"Bedingung, Lage"#15 
+"conducere, conduco, conduxi, conductum"#"zusammenführen, anwerben, mieten"#47
+"conferre, confero, contuli, collatum"#"vergleichen, zusammentragen"#72
+"conficere, conficio, confeci, confectum"#"fertigmachen, beenden"#56
+"confidere, confido, confisus sum"#"vertrauen"#69 
+"confirmare"#"bekräftigen, ermutigen, stärken"#30 
+"animum (m. Gen.) confirmare"#"(jmd.) ermutigen"#30
+"confiteri, confiteor, confessus sum"#"(ein)gestehen"#67
+"conicere, conicio, conieci, coniectum"#"(zusammen) werfen; folgern, vermuten"#38
+"conicere, conicio, conieci, coniectum"#"(zusammen) werfen; folgern, vermuten"#47 
+"in vincula conicere"#"in Fesseln legen, fesseln"#47 
+"coniungere, coniungo, coniunxi, coniunctum"#"verbinden, vereinigen"#42
+"coniunx, coniugis [m/f]"#"Gatte, Gattin"#40
+"coniuratio, coniurationis [f]"#"Verschwörung"#53 
+"conscribere, conscribo, conscripsi, conscriptum"#"aufschreiben, verfassen"#35
+"milites conscribere"#"Soldaten ausheben"#35 
+"patres conscripti [m]"#"Pl. Senatoren"#38
+"consequi, consequor, consecutus sum"#"erreichen, nachfolgen"#69
+"conservare (a m. Abl.)"#"retten (vor), bewahren"#30 
+"considere, consido, consedi, consessum"#"sich setzen, sich niederlassen"#32
+"consilium"#"Beratung; Beschluss, Plan, Rat"#6 
+"consilium habere"#"eine Beratung abhalten"#6 
+"consilium inire"#"einen Beschluss fassen"#39 
+"quid consilli"#"welcher Plan, welcher Entschluss"#69
+"consistere, consisto, constiti"#"haltmachen, sich aufstellen"#56
+"conspectus, conspectus [m]"#"Anblick, Blickfeld"#29 
+"conspicere, conspicio, conspexi (conspectum)"#"erblicken"#29
+"constans, constantis"#"beständig, standhaft, folgerichtig"#58
+"constare, consto, constiti"#"kosten"#64
+"constare ex m. Abl."#"bestehen aus"#64
+"constat"#"es ist bekannt, es steht fest"#20 
+"constituere, constituo, constitui, constitutum"#"beschließen"#71
+"consuescere, consuesco, consuevi"#"sich gewöhnen an; Perf. gewohnt sein"#72 
+"consuetudo, consuetudinis [f]"#"Gewohnheit"#49 
+"consul, consulis [m]"#"Konsul"#42
+"consulere, consulo, consului, consultum"#"m. Akk. um Rat fragen, m. Dat. sorgen für, in m. Akk. vorgehen gegen"#38
+"consulere, consulo, consului, consultum"#"m. Akk. um Rat fragen, m. Dat. sorgen für, in m. Akk. vorgehen gegen"#56
+"consumere, consumo, consumpsi, consumptum"#"verbrauchen, verwenden"#65
+"consumere in m. Abl."#"verwenden auf"#65
+"contendere, contendo, contendi"#"behaupten (m. Acl); kämpfen, sich anstrengen; eilen"#20
+"contendere, contendo, contendi"#"behaupten (m. Acl); kämpfen, sich anstrengen; eilen"#25
+"contendere, contendo, contendi"#"behaupten (m. Acl); kämpfen, sich anstrengen; eilen"#26 
+"contentus, a, um"#"zufrieden"#14
+
+"aut ... aut"#"entweder ... oder"#30
+"autem"#"aber, andererseits"#9
+"auxilium"#"Hilfe"#7
+"auxilio venire"#"zu Hilfe kommen"#28
+"avaritia"#"Geiz, Habgier"#68
+"avertere, averto, averti, aversum"#"abwenden, vertreiben"#50
+"avis, avis [f]"#"Vogel"#31
+"avus"#"Großvater"#12
+"barbarus, a, um"#"ausländisch, unzivilisiert"#50 
+"basilica"#"Markthalle, Gerichtshalle"#1
+"basilica Petri"#"Petersdom"#62 
+"beatus, a, um"#"glücklich, reich"#46 
+"bellum"#"Krieg"#17
+"bellum inferre (m. Dat.)"#"jmd. angreifen"#62
+"bene"#"Adv. gut"#8
+"bene valere"#"(richtig) gesund sein"#69 
+"beneficium"#"Wohltat"#45
+"bibere, bibo, bibi"#"trinken"#27
+"bonus, a, um"#"gut"#16
+"bona, bonorum [n]"#"Pl. Güter, Besitz"#16
+"bono animo esse"#"guten Mutes sein, zuversichtlich sein"#47
+"bonum [n]"#"das Gut(e); Besitz"#16 
+"bos, bovis [m/f]"#"Kuh, Ochse, Rind"#15 
+"brevis, e"#"kurz"#20
+"brevi tempore"#"nach kurzer Zeit, bald (darauf)"#20
+"cadere, cado, cecidi"#"fallen"#11
+"cadere, cado, cecidi"#"fallen"#21 
+"caedere, caedo, cecidi, caesum"#"fällen, niederschlagen"#66
+"caedes, caedis [f]"#"Blutbad, Mord"#22 
+"caelum"#"Himmel"#19
+"calamitas, calamitatis [f]"#"Schaden, Unglück"#17 
+"campus"#"Feld, freier Platz"#12
+"canere, cano, cecini, cantatum"#"singen, besingen, (ein Instrument) spielen"#34 
+"canis, canis [m]"#"Hund"#40
+"capere, capio, cepi, captum"#"fassen, nehmen, erhalten; erobern"#24
+"capere, capio, cepi, captum"#"fassen, nehmen, erhalten; erobern"#31
+"captivus"#"gefangen; Subst. (Kriegs-)Gefangener"#31 
+"caput, capitis [n]"#"Kopf, Hauptstadt"#25
+"capitis damnare"#"zum Tode verurteilen"#35 
+"carere, careo"#"m. Abl. frei sein von, ohne (etw.) sein; nicht haben"#38
+"carmen, carminis [n]"#"Gedicht, Lied"#27 
+"carus, a, um"#"lieb, teuer, wertvoll"#67
+
+"castra, castrorum [n]"#"Pl. Lager"#35
+"castra collocare"#"das Lager aufschlagen"#35
+"casus, casus [m]"#"Fall, Zufall"#27
+"causa"#"Sache, Ursache, Grund, Prozess"#7
+"causa"#"Sache, Ursache, Grund, Prozess"#69
+"aliqua ex causa"#"aus irgendeinem Grund"#42 
+"causam agere"#"einen Prozess führen"#69
+"his de causis"#"aus diesen Gründen, deshalb"#44 
+"qua de causa"#"aus welchem Grund; relativer Satzanchluss; deshalb"#54
+"quibus de causis"#"aus welchen Gründen; relativer Satzanschluss: deshalb"#54
+"causa (nachgestellt) m. Gen."#"wegen"#30 
+"cavere, caveo, cavi, cautum m. Akk."#"sich hüten (vor), Vorsorge treffen"#48
+"cavere, ne"#"sich hüten (davor), dass"#50
+"cedere, cedo, cessi, cessum"#"gehen, weichen; nachgeben"#38
+"celer, celeris, celere"#"schnell"#26 
+"celeritas, celeritatis [f]"#"Schnelligkeit"#68 
+"cena"#"Mahlzeit, Essen"#11
+"cenare"#"essen"#13
+"censere, censeo, censui, censum"#"(m. Akk.) meinen, einschätzen; seine Stimme abgeben (für jmd./etw.)"#59
+"centum"#"indekl. hundert"#28
+"cernere, cerno"#"sehen, bemerken"#70 
+"certamen, certaminis [n]"#"Wettstreit, Kampf"#54 
+"certare"#"streiten, wetteifern"#56
+"de victoria certare"#"um den Sieg streiten"#56
+"certe"#"Adv. gewiss, sicherlich"#8 
+"certus, a, um"#"sicher, zuverlässig"#72 
+"cessare"#"zögern, rasten"#2
+"ceteri, ae, a"#"die übrigen"#15
+"ceterum"#"Adv. übrigens"#55
+"cibus"#"Nahrung, Speise"#9
+"cinis, cineris [m]"#"Asche"#18
+"circumdare, circumdo, circumdedi"#"umgeben"#29
+"circumvenire, circumvenio, circumveni, circumventum"#"umringen, umzingeln"#48 
+"civis, civis [m/f]"#"Bürger(in)"#30
+"civitas, civitatis [f]"#"Gemeinde, Staat, Bürgerrecht"#35
+"clades, cladis [f]"#"Niederlage, Verlust"#56 
+"clamare"#"laut rufen, schreien"#3 
+"clamor, clamoris [m]"#"Geschrei, Lärm"#5 
+"clarus, a, um"#"hell, klar, berühmt"#36 
+"classis, classis [f]"#"Abteilung, Flotte"#19
+"claudere, claudo, clausi, clausum"#"abschließen, einschließen"#31
+
+"aliqui, aliqua, aliquod"#"Adj. irgendein"#42
+"aliqua ex causa"#"aus irgendeinem Grund"#42
+"aliquis, aliquid"#"Subst. irgendjemand, irgendetwas"#42
+"aliquid honoris"#"irgendeine Ehre"#69 
+"aliter"#"Adv. anders, sonst"#31
+"alius, alia, aliud (Gen. alterius, Dat. alteri)"#"ein anderer"#15
+"alter, altera, alterum (Gen. alterius, Dat. alteri)"#"der eine / der andere (von zweien)"#30 
+"altus, a, um"#"hoch, tief"#32
+"amare"#"lieben"#5
+"ambo, ambae, ambo"#"beide (zusammen)"#29 
+"ambulare"#"spazierengehen"#34
+"amica"#"Freundin"#2
+"amicitia"#"Freundschaft"#42
+"amicus"#"Freund"#2
+"amittere, amitto, amisi (amissum)"#"aufgeben, verlieren"#29
+"amor, amoris [m]"#"Liebe"#24
+"amphitheatrum"#"Amphitheater"#21 
+"amplus, a, um"#"groß, weit, bedeutend"#32 
+"an im Fragesatz"#"oder (etwa)"#22
+"an im indir. Fragesatz"#"ob (nicht)"#71
+"haud scio, an"#"ich weiß nicht, ob nicht; vielleicht"#71
+"ancora"#"Anker"#43
+"ancoram tollere"#"den Anker lichten"#43 
+"angustus, a, um"#"eng, schwierig"#18 
+"animadvertere, animadverto, animadverti, animadversum m. Acl. / Akk."#"bemerken"#"40
+"animadvertere in m. Akk."#"vorgehen gegen"#47 
+"animal, animalis [n]"#"Lebewesen, Tier"#27
+"animus"#"Geist, Gesinnung, Mut"#19
+"animum (m. Gen.) confirmare"#"(jmd.) ermutigen"#30
+"animum / animos (m. Gen.) convertere"#"(jmds.) Einstellung ändern"#57
+"animum demittere"#"den Mut verlieren"#29
+"bono animo esse"#"guten Mutes sein, zuversichtlich sein"#47
+"annus"#"Jahr"#16
+"puer novem annorum"#"ein neunjähriger Junge"#41
+"ante m. Akk."#"vor"#29
+"antea Adv."#"vorher, früher"#44
+"antiquus, a, um"#"alt, altertümlich"#14 
+"aperire, aperio, aperui, apertum"#"aufdecken, öffnen"#24
+"aperire, aperio, aperui, apertum"#"aufdecken, öffnen"#60
+"apertus, a, um"#"offen, offenkundig"#60
+"appellare m. dopp. Akk."#"nennen, bezeichnen (als); anrufen"#35
+"appetere, appeto (appetivi, appetitum)"#"haben wollen, erstreben"#9 
+"apud m. Akk."#"bei, nahe bei"#21
+"aqua"#"Wasser"#11
+"aquaeductus, aquaeductus [m]"#"Wasserleitung"#36
+"ara"#"Altar"#7
+"arbitrari, arbitror, arbitratus sum"#"glauben, meinen"#67
+"arbor, arboris [f]"#"Baum"#5
+"arcessere, arcesso, arcessivi, arcessitum"#"herbeirufen, holen"#13
+"arcessere, arcesso, arcessivi, arcessitum"#"herbeirufen, holen"#39 
+"ardere, ardeo"#"brennen"#14
+"arena"#Sand, Kampfplatz, Arena"#14 
+"argentum"#"Silber"#4
+"arma, armorum [n]"#"Pl. Waffen"#23
+"ars, artis [f]"#"Fertigkeit, Kunst; Pl. Eigenschaften"#22 
+"ascendere, ascendo, ascendi, ascensum"#"hinaufsteigen, besteigen"#43
+"asper, aspera, asperum"#"rau, streng"#52
+"aspicere, aspicio, aspexi (aspectum)"#"erblicken"#20
+"at"#"aber, dagegen, jedoch"#49
+"ater, atra, atrum"#"schwarz, düster"#19
+"Athenis"#"in Athen (wo?)"#44 
+"atque / ac"#"und, und auch; (im Vergleich) wie, als"#24
+"atque / ac"#"und, und auch; (im Vergleich) wie, als"#72
+"attingere, attingo (attigi, attactum)"#"berühren"#8
+"auctor, auctoris [m]"#"Anführer, Gründer, Ratgeber, Urheber, Verfasser"#37
+"deo auctore"#"auf Veranlassung Gottes"#58
+"me auctore"#"auf meine Veranlassung"#58 
+"auctoritas, auctoritatis [f]"#"Ansehen, Einfluss, Macht"#37
+"audacia"#"Frechheit, Kühnheit"#47 
+"audere, audeo, ausus sum"#"wagen"#71
+"audire, audio, audivi (auditum)"#"hören"#9
+"audire, audio, audivi (auditum)"#"hören"#18 
+"augere, augeo, auxi, auctum"#"vergrößern, vermehren"#21
+"augere, augeo, auxi, auctum"#"vergrößern, vermehren"#48
+"aura"#"Luft(zug)"#12
+"aureus, a, um"#"golden"#46 
+"auris, auris [f]"#"Ohr"#29
+"aures dare"#"zuhören"#29 
+"aurum"#"Gold"#4
+"aut"#"oder"#23
+
+"a / ab m. Abl."#"von, von ... her"#6
+"abducere, abduco, abduxi (abductum)"#"wegführen"#24
+"abesse, absum (a m. Abl.)"#"abwesend sein (von), fehlen"#17
+"non multum abest, quin"#"es fehlt nicht viel, dass"#71
+"abire, abeo, abii, abitum"#"weggehen"#39
+"ac / atque"#"und, und auch; (im Vergleich) wie, als"#24
+"ac / atque"#"und, und auch; (im Vergleich) wie, als"#72
+"accedere, accedo, accessi"#"herbeikommen, hinzukommen"#3
+"accedere, accedo, accessi"#"herbeikommen, hinzukommen"#19
+"ad rem publicam accedere"#"sich dem Staatsdienst widmen"#35
+"accendere, accendo, accendi, accensum"#"anfeuern, anzünden"#66
+"accipere, accipio, accepi, acceptum"#"erhalten, annehmen, erfahren"#38
+"accusare"#"anklagen, beschuldigen"#52
+"acer, acris, acre"#"energisch, heftig, scharf"#26 
+"acerbus, a, um"#"bitter, grausam, rücksichtslos"#15 
+"acies, aciei [f]"#"Schlachtordnung, Schlacht"#60 
+"actio, äctionis [f]"#"Tätigkeit, Gerichtsverhandlung, Rede"#22
+"ad m. Akk."#"an, bei, nach, zu"#6
+"ad rem publicam admittere"#"zur Leitung des Staates hinzuziehen"#38
+"addere, addo, addidi, additum"#"hinzufügen"#61
+"adducere, adduco, adduxi, adductum"#"heranführen, veranlassen"#33
+"adeo"#"Adv. so sehr"#34
+"adesse, adsum, adfui"#"da sein; helfen"#2
+"adesse, adsum, adfui"#"da sein; helfen"#21 
+"adhuc"#"Adv. bis jetzt, noch"#6
+"adicere, adicio, adieci, adiectum"#"hinzufügen"#55
+"adire, adeo, adii, aditum (m. Akk.)"#"herantreten (an), bitten"#39
+"oraculum adire"#"die Orakelstätte aufsuchen, sich an das Orakel wenden"#54
+"aditus, aditus [m]"#"Zugang"#32
+"adiungere, adiungo, adiunxi, adiunctum"#"hinzufügen, anschließen"#51
+"admittere, admitto, admisi, admissum"#"hinzuziehen, zulassen"#38
+"ad rem publicam admittere"#"zur Leitung des Staates hinzuziehen"#38
+"adulescens, adulescentis [m]"#"junger Mann; jung"#25 
+"adventus, adventus [m]"#"Ankunft"#59
+"adversarius"#"Gegner"#56
+"adversus, a, um"#"entgegengesetzt, feindlich"#27 
+"res adversae [f]"#"Pl. Unglück"#28
+"aedificare"#"bauen"#5
+"aedificium"#"Gebäude"#12
+"aedis, aedis [f]"#"Tempel; Pl. Haus"#36
+"aequus, a, um"#"eben, gerecht, gleich"#61
+"aer, aeris [m]"#"Luft"#31
+"aestas, aestatis [f]"#"Sommer"#54
+"aestimare"#"einschätzen, beurteilen"#38
+"magni aestimare"#"hoch (ein)schätzen"#38 
+"parvi aestimare"#"gering (ein)schätzen"#38 
+"pluris aestimare"#"höher einschätzen, für wichtiger halten"#45
+"aestus, aestus [m]"#"Hitze"#28
+"aetas, aetatis [f]"#"Lebensalter, Zeitalter, Zeit"#49 
+"aeternus, a, um"#"ewig"#58
+"afferre, affero, attuli, allatum"#"bringen, herbeibringen, mitbringen; melden"#62
+"afficere, afficio, affeci, affectum m. Abl."#"versehen mit"#23
+"afficere, afficio, affeci, affectum m. Abl."#"versehen mit"#39
+"honore affici"#"geehrt werden, Ehre erlangen"#37 
+"poena afficere"#"bestrafen"#23
+"timore affici"#"in Furcht geraten, Angst bekommen"#39
+"ager, agri [m]"#"Acker, Feld, Gebiet"#13
+"agere, ago, egi, actum"#"handeln, treiben, verhandeln"#6
+"agere, ago, egi, actum"#"handeln, treiben, verhandeln"#27
+"agere, ago, egi, actum"#"handeln, treiben, verhandeln"#55
+"causam agere"#"einen Prozess führen"#69
+"de pretio agere"#"über den Preis verhandeln"#6 
+"fäbulam agere"#"ein Theaterstück spielen"#22 
+"gratias agere"#"danken"#10
+"negotia agere"#"(seinen) Geschäften nachgehen"#6 
+"vitam agere"#"sein Leben verbringen / führen"#16 
+"aggredi, aggredior, aggressus sum"#"angreifen, herangehen"#68
+"agitare"#"(be)treiben, überlegen"#16
+"agmen, agminis [n]"#"Heereszug, Zug"#35
+"ait"#"behauptet(e) er, sagt(e) er"#28
+"ala"#"Flügel"#31
+"alere, alo, alui"#"ernähren, großziehen"#16
+"alere, alo, alui"#"ernähren, großziehen"#26 
+"alii ... alii"#"die einen ... die anderen"#15
+"aliquando"#"Adv. irgendwann, einmal"#57
